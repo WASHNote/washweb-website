@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>WASH Web - About</title>
+<title>WASH Web - News</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -58,7 +60,37 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -84,11 +116,11 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./about.html" aria-current="page">
+    <a class="nav-link" href="./about.html">
  <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./posts.html">
+    <a class="nav-link active" href="./posts.html" aria-current="page">
  <span class="menu-text">News</span></a>
   </li>  
 </ul>
@@ -103,13 +135,13 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    </div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">About</h1>
+<h1 class="title">News</h1>
 </div>
 
 
@@ -124,18 +156,18 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>At the core of the vision, the idea is to make information discoverable, representative, and useful. Discoverable means that it can not only be found through search and also by simply showing interest in the area and somehow you discover it. Browsing wikipedia articles should be sufficient to find key statistics on water and sanitation. At the moment, these statistics are a few steps away in specialist websites like washdata.org and this information is not automatically used in those articles. Showing interest in a specific district and search “water” and the name of US county should give key facts about water supplies. Data may already be available but simply not discoverable.</p>
-<p>Representative means that information should also represent the reality on the ground from different perspectives and that information is not from a single source of truth. It should also be appropriate to the local needs both in terms of the WASH sector and local populations and should be validated.</p>
-<p>Useful information is information from which one can begin to take action. Often key information about who to contact for more information, what happened, when and where is missing. If there is information about water services or sanitation, these are often dated.</p>
-<p>In short, WASH Web intends to make information and expertise more accessible so that it is no longer only experts who are able to make informed decisions based on available evidence. Up until now, WASH Web has been an idea and a project that a few people have been playing with. This website and the project is open source and participatory meaning it is open to the initiative and inputs from others. Currently, WASHNote hosts and maintains the project website and source code.</p>
-<p>Would you like to get involved? Please get in touch or check add an issue on Github.</p>
-<p>Contact form: <a href="https://washnote.com/contact/" class="uri">https://washnote.com/contact/</a></p>
-<p>Add an issue: <a href="https://github.com/WASHNote/WASHWeb/issues" class="uri">https://github.com/WASHNote/WASHWeb/issues</a></p>
-<p>This website was last updated on 2023-05-12 .</p>
 
 
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
