@@ -1,11 +1,5 @@
 ---
-title: "washweb-website"
+title: "WASH Web"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+WASHWeb is a participatory initiative to give you better access to water, sanitation and hygiene information. Citizens, suppliers, NGOs and governments can take part to better use evidence to and to make information accessible.

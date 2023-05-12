@@ -2,8 +2,18 @@
 title: "About"
 ---
 
-About this site
+At the core of the vision, the idea is to make information discoverable, representative, and useful. Discoverable means that it can not only be found through search and also by simply showing interest in the area and somehow you discover it. Browsing wikipedia articles should be sufficient to find key statistics on water and sanitation. At the moment, these statistics are a few steps away in specialist websites like washdata.org and this information is not automatically used in those articles. Showing interest in a specific district and search "water" and the name of US county should give key facts about water supplies. Data may already be available but simply not discoverable.
 
-```{r}
-1 + 1
-```
+Representative means that information should also represent the reality on the ground from different perspectives and that information is not from a single source of truth. It should also be appropriate to the local needs both in terms of the WASH sector and local populations and should be validated.
+
+Useful information is information from which one can begin to take action. Often key information about who to contact for more information, what happened, when and where is missing. If there is information about water services or sanitation, these are often dated.
+
+In short, WASH Web intends to make information and expertise more accessible so that it is no longer only experts who are able to make informed decisions based on available evidence. Up until now, WASH Web has been an idea and a project that a few people have been playing with. This website and the project is open source and participatory meaning it is open to the initiative and inputs from others. Currently, WASHNote hosts and maintains the project website and source code.
+
+Would you like to get involved? Please get in touch or check add an issue on Github.
+
+Contact form: <https://washnote.com/contact/>
+
+Add an issue: <https://github.com/WASHNote/WASHWeb/issues>
+
+This website was last updated on `r Sys.Date()` .
