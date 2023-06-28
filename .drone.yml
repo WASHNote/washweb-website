@@ -12,7 +12,8 @@ steps:
       host: washnote.org
       port: 2222
       service: dev_washnote_org
-      source: _site
+      source: .
       dest: /usr/share/nginx/html/
+      chdir: _site
       deploy_key:
         from_secret: drone_ssh_washnote_org
