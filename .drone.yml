@@ -10,7 +10,8 @@ steps:
     image: git.coopcloud.tech/coop-cloud/docker-cp-deploy:latest
     settings:
       host: washnote.org
-      service: dev_washnote_com
+      port: 222
+      service: dev_washnote_org
       source: _site
       dest: /usr/share/nginx/html/
       deploy_key:
