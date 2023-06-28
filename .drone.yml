@@ -1,8 +1,7 @@
---
+---
 kind: pipeline
 name: deploy to quarto.washnote.org
 type: docker
-
 
 steps:
   - name: build quarto site
