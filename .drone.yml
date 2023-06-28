@@ -1,20 +1,17 @@
 ---
 kind: pipeline
 name: deploy to quarto.washnote.org
-type: docker
-
 steps:
   - name: build quarto site
     image: cynkra/quarto-r:1.4.169-4.3.1
     commands:
-      - quarto render 
-
+      - quarto render
   - name: deploy to running app instance
     image: git.coopcloud.tech/coop-cloud/docker-cp-deploy:latest
-      settings:
-        host: washnote.org
-        service: dev_washnote_com
-        source: _site
-        dest: /usr/share/nginx/html/
-        deploy_key:
-          from_secret: drone_ssh_washnote_org
+    settings:
+      host: washnote.org
+      service: dev_washnote_com
+      source: _site
+      dest: /usr/share/nginx/html/
+      deploy_key:
+        from_secret: drone_ssh_washnote_org
