@@ -1,24 +1,66 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "At the core of the vision, the idea is to make information discoverable, representative, and useful. Discoverable means that it can not only be found through search and also by simply showing interest in the area and somehow you discover it. Browsing wikipedia articles should be sufficient to find key statistics on water and sanitation. At the moment, these statistics are a few steps away in specialist websites like washdata.org and this information is not automatically used in those articles. Showing interest in a specific district and search “water” and the name of US county should give key facts about water supplies. Data may already be available but simply not discoverable.\nRepresentative means that information should also represent the reality on the ground from different perspectives and that information is not from a single source of truth. It should also be appropriate to the local needs both in terms of the WASH sector and local populations and should be validated.\nUseful information is information from which one can begin to take action. Often key information about who to contact for more information, what happened, when and where is missing. If there is information about water services or sanitation, these are often dated.\nIn short, WASH Web intends to make information and expertise more accessible so that it is no longer only experts who are able to make informed decisions based on available evidence. Up until now, WASH Web has been an idea and a project that a few people have been playing with. This website and the project is open source and participatory meaning it is open to the initiative and inputs from others. Currently, WASHNote hosts and maintains the project website and source code.\nWould you like to get involved? Please get in touch or check add an issue on Github.\nContact form: https://washnote.com/contact/\nAdd an issue: https://github.com/WASHNote/WASHWeb/issues\nThis website was last updated on 2023-05-12 ."
+    "text": "Founder of WASHNote. With over 15 years of experience in the WASH sector, Nick is highly specialized in the development of international and regional monitoring of WASH commitments and their enabling environments, providing country-led monitoring and evaluation of services, and facilitating trainings to a range of different organizations. Above all, he firmly believes in the need for making better use of data and digital systems to advance towards reaching SDG 6: clean water and sanitation for all by 2030.\nEmail | LinkedIn\n\n\n\nMerel works as an independent consultant in the WASH sector. Her work spans a variety of topics, from WASH systems strengthening to disaster preparedness in humanitarian settings. She graduated from the University of Oxford with an MSc in Water Science, Policy and Management, where her dissertation research focused on the use of systems thinking in the implementation of rural water treatment.\nEmail | LinkedIn"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "WASH Web",
+    "title": "Agents of Change",
     "section": "",
-    "text": "WASH Web is a set of participatory initiative to give you and everyone you know better access to water, sanitation and hygiene information. This web page is where you can find more information about taking part in various ways"
+    "text": "WASH Web is a set of participatory initiatives to give you and everyone you know better access to water, sanitation and hygiene information. This web page is where you can find more information about taking part in various ways."
+  },
+  {
+    "objectID": "index.html#our-vision",
+    "href": "index.html#our-vision",
+    "title": "Agents of Change",
+    "section": "Our vision",
+    "text": "Our vision\nWASH Web helps organizations that work to fill the water, sanitation and hygiene (WASH) gap, by offering training and data management services to make data discoverable, usable and representative to facilitate an improved data environment which contributes to decision-making at scale. We aim to facilitate collaboration and working group discussions through four different “initiatives”. WASH Web is meant to serve as an open platform and requires input from others in the sector. Our vision cannot be realized without community support."
+  },
+  {
+    "objectID": "index.html#social-justice",
+    "href": "index.html#social-justice",
+    "title": "Agents of Change",
+    "section": "Social Justice",
+    "text": "Social Justice\nAccess to safe drinking water is a basic human right, and access to WASH systems is a social justice issue. What information is needed to improve access for marginalized people? Are there specific ethical issues around data collection and use that need to be addressed?"
+  },
+  {
+    "objectID": "index.html#using-data-better",
+    "href": "index.html#using-data-better",
+    "title": "Agents of Change",
+    "section": "Using Data Better",
+    "text": "Using Data Better\nThere is a wealth of information and knowledge available regarding WASH data. Organizations like the JMP, GLAAS, World Bank, and OECD have generated valuable data for the sector. How can we make this publicly available data more accessible and more usable? How can we incorporate data that is more difficult to find? How can we involve smaller organizations?"
+  },
+  {
+    "objectID": "index.html#systems-thinking",
+    "href": "index.html#systems-thinking",
+    "title": "Agents of Change",
+    "section": "Systems Thinking",
+    "text": "Systems Thinking\nIn the WASH sector, it is increasingly recognized that systems strengthening is critical to achieve universal services. Understanding and acting on systems requires that qualitative and quantitative information is used holistically in collective action. How do we bring together diverse sources of information to support systems strengthening? What are the benefits and risks of using artificial intelligence and information technology for this task?"
+  },
+  {
+    "objectID": "index.html#accountability-4ws",
+    "href": "index.html#accountability-4ws",
+    "title": "Agents of Change",
+    "section": "Accountability: 4Ws",
+    "text": "Accountability: 4Ws\nThe actors accountable for water and sanitation decision-making are often dispersed throughout diverse organizations. As a result, there is a scattered and disconnected WASH data ecosystem. The Registry aims to offer an overview of who is where, when, and doing what for formal change agents."
   },
   {
     "objectID": "index.html#who-can-take-part",
     "href": "index.html#who-can-take-part",
-    "title": "WASH Web",
+    "title": "Agents of Change",
     "section": "Who can take part?",
-    "text": "Who can take part?\nCitizens, suppliers, NGOs and governments can take part to better use evidence to and to make information accessible."
+    "text": "Who can take part?\nCitizens, suppliers, NGOs and governments can take part to better use evidence to and to make information accessible.\nAre you interested in one of these initiatives? Please get in touch or add an issue on Github.\nContact form: https://washnote.com/contact/\nAdd an issue: https://github.com/WASHNote/WASHWeb/issues"
+  },
+  {
+    "objectID": "vision.html",
+    "href": "vision.html",
+    "title": "Vision",
+    "section": "",
+    "text": "At the core of the vision, the idea is to make information discoverable, representative, and useful.\n\n\n\n\n\nDiscoverable means that it can not only be found through search and also by simply showing interest in the area and somehow you discover it. Browsing wikipedia articles should be sufficient to find key statistics on water and sanitation. At the moment, these statistics are a few steps away in specialist websites like washdata.org and this information is not automatically used in those articles. Showing interest in a specific district and search “water” and the name of US county should give key facts about water supplies. Data may already be available but simply not discoverable.\nRepresentative means that information should also represent the reality on the ground from different perspectives and that information is not from a single source of truth. It should also be appropriate to the local needs both in terms of the WASH sector and local populations and should be validated.\nUseful information is information from which one can begin to take action. Often key information about who to contact for more information, what happened, when and where is missing. If there is information about water services or sanitation, these are often dated.\nIn short, WASH Web intends to make information and expertise more accessible so that it is no longer only experts who are able to make informed decisions based on available evidence. Up until now, WASH Web has been an idea and a project that a few people have been playing with. This website and the project is open source and participatory meaning it is open to the initiative and inputs from others. Currently, WASHNote hosts and maintains the project website and source code.\nWould you like to get involved? Please get in touch or add an issue on Github.\n\n\n\nThis website was last updated on 2023-07-04 ."
   },
   {
     "objectID": "posts.html",
