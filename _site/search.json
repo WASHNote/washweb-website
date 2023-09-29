@@ -11,21 +11,21 @@
     "href": "index.html",
     "title": "Agents of Change",
     "section": "",
-    "text": "WASH Web is a set of participatory initiatives to give you and everyone you know better access to water, sanitation and hygiene information. This web page is where you can find more information about taking part in various ways."
+    "text": "WASH Web is a set of participatory initiatives to give you and everyone you know better access to water, sanitation and hygiene information. This web page is where you can find more information about taking part in various ways.\nThe WASH Web is made up of people and organizations that work to fill the water, sanitation and hygiene (WASH) gap to make data discoverable, usable and representative. WASH Web is meant to serve as an open platform and requires diverse inputs to work. Our vision cannot be realized without community support.\nPlease join us to contribute."
   },
   {
     "objectID": "index.html#our-vision",
     "href": "index.html#our-vision",
     "title": "Agents of Change",
     "section": "Our vision",
-    "text": "Our vision\nWASH Web helps organizations that work to fill the water, sanitation and hygiene (WASH) gap, by offering training and data management services to make data discoverable, usable and representative to facilitate an improved data environment which contributes to decision-making at scale. We aim to facilitate collaboration and working group discussions through four different “initiatives”. WASH Web is meant to serve as an open platform and requires input from others in the sector. Our vision cannot be realized without community support."
+    "text": "Our vision\nThe WASH Web is made up of people and organizations that work to fill the water, sanitation and hygiene (WASH) gap to make data discoverable, usable and representative. The goal is to\nWe aim to facilitate collaboration and working group discussions through four different initiatives for an improved and healthy data environment. WASH Web is meant to serve as an open platform and requires diverse inputs to work. Our vision cannot be realized without community support."
   },
   {
     "objectID": "index.html#social-justice",
     "href": "index.html#social-justice",
     "title": "Agents of Change",
     "section": "Social Justice",
-    "text": "Social Justice\nAccess to safe drinking water is a basic human right, and access to WASH systems is a social justice issue. What information is needed to improve access for marginalized people? Are there specific ethical issues around data collection and use that need to be addressed?"
+    "text": "Social Justice\nAccess to safe drinking water is a basic human right, and access to WASH systems is a social justice issue. What information is needed to improve access for marginalized people? What specific ethical issues around data collection, privacy, data ownership, and use of data need to be addressed?"
   },
   {
     "objectID": "index.html#using-data-better",
@@ -46,7 +46,7 @@
     "href": "index.html#accountability-4ws",
     "title": "Agents of Change",
     "section": "Accountability: 4Ws",
-    "text": "Accountability: 4Ws\nThe actors accountable for water and sanitation decision-making are often dispersed throughout diverse organizations. As a result, there is a scattered and disconnected WASH data ecosystem. The Registry aims to offer an overview of who is where, when, and doing what for formal change agents."
+    "text": "Accountability: 4Ws\nThe actors accountable for water and sanitation decision-making are often dispersed throughout diverse organizations. As a result, there is a scattered and disconnected WASH data ecosystem. It is proposed to make a WASH Registry to offer an overview of who is where, when, and doing what for formal change agents. Can this make the WASH sector more accountable?"
   },
   {
     "objectID": "index.html#who-can-take-part",
@@ -60,7 +60,7 @@
     "href": "vision.html",
     "title": "Vision",
     "section": "",
-    "text": "At the core of the vision, the idea is to make information discoverable, representative, and useful.\n\n\n\n\n\nDiscoverable means that it can not only be found through search and also by simply showing interest in the area and somehow you discover it. Browsing wikipedia articles should be sufficient to find key statistics on water and sanitation. At the moment, these statistics are a few steps away in specialist websites like washdata.org and this information is not automatically used in those articles. Showing interest in a specific district and search “water” and the name of US county should give key facts about water supplies. Data may already be available but simply not discoverable.\nRepresentative means that information should also represent the reality on the ground from different perspectives and that information is not from a single source of truth. It should also be appropriate to the local needs both in terms of the WASH sector and local populations and should be validated.\nUseful information is information from which one can begin to take action. Often key information about who to contact for more information, what happened, when and where is missing. If there is information about water services or sanitation, these are often dated.\nIn short, WASH Web intends to make information and expertise more accessible so that it is no longer only experts who are able to make informed decisions based on available evidence. Up until now, WASH Web has been an idea and a project that a few people have been playing with. This website and the project is open source and participatory meaning it is open to the initiative and inputs from others. Currently, WASHNote hosts and maintains the project website and source code.\nWould you like to get involved? Please get in touch or add an issue on Github.\n\n\n\nThis website was last updated on 2023-07-04 ."
+    "text": "At the core of the vision, the idea is to make information discoverable, representative, and useful.\n\n\n\n\n\nDiscoverable means that it can not only be found through search and also by simply showing interest in the area and somehow you discover it. Browsing wikipedia articles should be sufficient to find key statistics on water and sanitation. At the moment, these statistics are a few steps away in specialist websites like washdata.org and this information is not automatically used in those articles. Showing interest in a specific district and search “water” and the name of US county should give key facts about water supplies. Data may already be available but simply not discoverable.\nRepresentative means that information should also represent the reality on the ground from different perspectives and that information is not from a single source of truth. It should also be appropriate to the local needs both in terms of the WASH sector and local populations and should be validated.\nUseful information is information from which one can begin to take action. Often key information about who to contact for more information, what happened, when and where is missing. If there is information about water services or sanitation, these are often dated.\nIn short, WASH Web intends to make information and expertise more accessible so that it is no longer only experts who are able to make informed decisions based on available evidence. Up until now, WASH Web has been an idea and a project that a few people have been playing with. This website and the project is open source and participatory meaning it is open to the initiative and inputs from others. Currently, WASHNote hosts and maintains the project website and source code.\nWould you like to get involved? Please get in touch or add an issue on Github.\nThis website was last updated on 2023-07-31 ."
   },
   {
     "objectID": "posts.html",
@@ -68,5 +68,89 @@
     "title": "News",
     "section": "",
     "text": "No matching items"
+  },
+  {
+    "objectID": "contact.html#core-facilitating-team",
+    "href": "contact.html#core-facilitating-team",
+    "title": "Contact",
+    "section": "",
+    "text": "Founder of WASHNote. With over 15 years of experience in the WASH sector, Nick is highly specialized in the development of international and regional monitoring of WASH commitments and their enabling environments, providing country-led monitoring and evaluation of services, and facilitating trainings to a range of different organizations. Above all, he firmly believes in the need for making better use of data and digital systems to advance towards reaching SDG 6: clean water and sanitation for all by 2030.\nEmail | LinkedIn\n\n\n\nMerel works as an independent consultant in the WASH sector. Her work spans a variety of topics, from WASH systems strengthening to disaster preparedness in humanitarian settings. She graduated from the University of Oxford with an MSc in Water Science, Policy and Management, where her dissertation research focused on the use of systems thinking in the implementation of rural water treatment.\nEmail | LinkedIn"
+  },
+  {
+    "objectID": "index.html#join",
+    "href": "index.html#join",
+    "title": "Agents of Change",
+    "section": "Who can take part?",
+    "text": "Who can take part?\nCitizens, suppliers, NGOs and governments can take part to better use evidence to and to make information accessible.\nAre you interested in one of these initiatives? Please get in touch or add an issue on Github.\nContact form: https://washnote.com/contact/\nAdd an issue: https://github.com/WASHNote/WASHWeb/issues"
+  },
+  {
+    "objectID": "privacy.html",
+    "href": "privacy.html",
+    "title": "PRIVACY POLICY",
+    "section": "",
+    "text": "When you visit our websites and contact us or create an account on *.washweb.org, *.washnote.org, and *.washnote.com we receive information about you.\nWe also have a commitment to reducing the use of private data to the bare minimum to provide you with these websites and associated services.\nWe do our best to handle your information securely and with respect and care."
+  },
+  {
+    "objectID": "privacy.html#scope",
+    "href": "privacy.html#scope",
+    "title": "PRIVACY POLICY",
+    "section": "Scope",
+    "text": "Scope\nThis privacy policy applies to all personal data that we process on all domains related to us. This concerns personal data of visitors and users of these websites.\nWe process the personal data of anyone who has visited our website and created an account, filled in data, or contacted us.\nPersonal data is data that can be traced back to you. If you want to know more, please visit the website of the Dutch Data Protection Authority or the EU GDPR website."
+  },
+  {
+    "objectID": "privacy.html#purpose",
+    "href": "privacy.html#purpose",
+    "title": "PRIVACY POLICY",
+    "section": "Purpose",
+    "text": "Purpose\nWe only use your personal data for the purpose for which we are allowed to use it based on our permission to use your personal data and based on data required to provide you with the service requested.\nWe have a commitment to keep this to the minimum required.\nWe don’t share your personal data with others."
+  },
+  {
+    "objectID": "privacy.html#washnote",
+    "href": "privacy.html#washnote",
+    "title": "PRIVACY POLICY",
+    "section": "WASHNote",
+    "text": "WASHNote\nWASHNote is responsible for the website (*.washnote.com, *.washnote.org, and *.washweb.org) and therefore the responsible organisation for the use of your personal data as described in this privacy statement. Our full details are:\nWASHNote\nSumatraweg 5A\n3072ZP Rotterdam\n62484885"
+  },
+  {
+    "objectID": "privacy.html#what-data-how-long-and-where",
+    "href": "privacy.html#what-data-how-long-and-where",
+    "title": "PRIVACY POLICY",
+    "section": "What data, how long, and where?",
+    "text": "What data, how long, and where?\nWe may use your name, address or business address, e-mail address, telephone number, and information you provide.\nWe keep your personal data for as long as we are required to do so by law and for as long as you use our services. We only process your personal data ourselves.\nWe process your data within the European Economic Area and we follow the the Dutch General Data Protection Regulation.\nGeneral rules that apply under Dutch law apply to our privacy statement."
+  },
+  {
+    "objectID": "privacy.html#data-protection",
+    "href": "privacy.html#data-protection",
+    "title": "PRIVACY POLICY",
+    "section": "Data protection",
+    "text": "Data protection\nWe do our best to ensure your data is safe according to the latest standards. We also minimize the amount of data we hold to the bare minimum to ensure we reduce any potential risks."
+  },
+  {
+    "objectID": "privacy.html#what-are-your-data-protection-rights",
+    "href": "privacy.html#what-are-your-data-protection-rights",
+    "title": "PRIVACY POLICY",
+    "section": "What are your data protection rights?",
+    "text": "What are your data protection rights?\nWe would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:\nThe right to access – You have the right to request WASHNote for copies of your personal data. We may charge you a small fee for this service.\nThe right to rectification – You have the right to request that WASHNote correct any information you believe is inaccurate. You also have the right to request WASHNote to complete the information you believe is incomplete.\nThe right to erasure – You have the right to request that WASHNote erase your personal data, under certain conditions. In some cases, may be required keep some data for 7 years for the Dutch tax authorities.\nThe right to restrict processing – You have the right to request that WASHNote restrict the processing of your personal data, under certain conditions.\nThe right to object to processing – You have the right to object to WASHNote’s processing of your personal data, under certain conditions.\nThe right to data portability – You have the right to request that WASHNote transfer the data that we have collected to another organization, or directly to you, under certain conditions.\nIf you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us at our email: dickinson+privacy@washnote.com\nIf you submit multiple applications or a complex request, it could potentially require additional processing time. In such instances, we will make sure to reach out to you within a maximum of 60 days. If necessary, we may also request that you verify your identity by providing specific information to confirm that you are indeed the rightful owner of the personal data in question."
+  },
+  {
+    "objectID": "privacy.html#cookies",
+    "href": "privacy.html#cookies",
+    "title": "PRIVACY POLICY",
+    "section": "Cookies",
+    "text": "Cookies\nCookies are text files placed on your computer to collect standard Internet log information and visitor behavior information. When you visit our websites, we may collect information from you automatically through cookies or similar technology\nFor further information, visit allaboutcookies.org.\n\nHow do we use cookies?\nOur Company uses cookies in a range of ways to improve your experience on our website, including:\n\nKeeping you signed in and storing information for your session\n\nWe do not use cookies for advertising or tracking.\n\n\nWhat types of cookies do we use?\nThere are a number of different types of cookies, however, our website uses only:\n\nFunctionality – Our Company uses these cookies so that we recognize you on our website and remember your previously selected preferences. These could include what language you prefer and location you are in. A mix of first-party and third-party cookies are used.\n\n\n\nHow to manage cookies\nYou can set your browser not to accept cookies, and the above website tells you how to remove cookies from your browser. However, in a few cases, some of our website features may not function as a result."
+  },
+  {
+    "objectID": "privacy.html#minors",
+    "href": "privacy.html#minors",
+    "title": "PRIVACY POLICY",
+    "section": "Minors",
+    "text": "Minors\nWe do not target minors with our website or as an organisation. This means that if you are under the age of 18, you need permission from a parent or guardian to use our website. If you are a minor when you visit our websites, we assume that you have received this permission before your visit."
+  },
+  {
+    "objectID": "privacy.html#how-to-contact-us",
+    "href": "privacy.html#how-to-contact-us",
+    "title": "PRIVACY POLICY",
+    "section": "How to contact us",
+    "text": "How to contact us\nIf you have a question about our privacy policy, please get in touch: dickinson+privacy@washnote.com."
   }
 ]

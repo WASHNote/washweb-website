@@ -4,15 +4,17 @@ title: "Agents of Change"
 
 WASH Web is a set of participatory initiatives to give you and everyone you know better access to water, sanitation and hygiene information. This web page is where you can find more information about taking part in various ways.
 
-## Our vision
+The WASH Web is made up of people and organizations that work to fill the water, sanitation and hygiene (WASH) gap to make data discoverable, usable and representative. WASH Web is meant to serve as an open platform and requires diverse inputs to work. Our vision cannot be realized without community support.
 
-WASH Web helps organizations that work to fill the water, sanitation and hygiene (WASH) gap, by offering training and data management services to make data discoverable, usable and representative to facilitate an improved data environment which contributes to decision-making at scale. We aim to facilitate collaboration and working group discussions through four different "initiatives". WASH Web is meant to serve as an open platform and requires input from others in the sector. Our vision cannot be realized without community support.
+[Please join us to contribute.](#join)
 
-# Working groups
+# Working group initiatives
+
+The work groups facilitate collaboration and discussions on four different initiatives for an improved and healthy data environment.
 
 ## Social Justice
 
-Access to safe drinking water is a basic human right, and access to WASH systems is a social justice issue. What information is needed to improve access for marginalized people? Are there specific ethical issues around data collection and use that need to be addressed?
+Access to safe drinking water is a basic human right, and access to WASH systems is a social justice issue. What information is needed to improve access for marginalized people? What specific ethical issues around data collection, privacy, data ownership, and use of data need to be addressed?
 
 ## Using Data Better
 
@@ -24,9 +26,9 @@ In the WASH sector, it is increasingly recognized that systems strengthening is 
 
 ## Accountability: 4Ws
 
-The actors accountable for water and sanitation decision-making are often dispersed throughout diverse organizations. As a result, there is a scattered and disconnected WASH data ecosystem. The Registry aims to offer an overview of **who** is **where, when,** and doing **what** for formal change agents.
+The actors accountable for water and sanitation decision-making are often dispersed throughout diverse organizations. As a result, there is a scattered and disconnected WASH data ecosystem. It is proposed to make a WASH Registry to offer an overview of **who** is **where, when,** and doing **what** for formal change agents. Can this make the WASH sector more accountable?
 
-## Who can take part?
+## Who can take part? {#join}
 
 Citizens, suppliers, NGOs and governments can take part to better use evidence to and to make information accessible.
 
