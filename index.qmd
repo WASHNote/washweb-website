@@ -30,8 +30,8 @@ The actors accountable for water and sanitation decision-making are often disper
 
 Citizens, suppliers, NGOs and governments can take part to better use evidence to and to make information accessible.
 
-Are you interested in one of these initiatives? Please get in touch or add an issue on Github.
+Are you interested in one of these initiatives? Please join our LinkedIn group or add an issue on Github.
 
-Contact form: <https://washnote.com/contact/>
+WASH Web LinkedIn Community: <https://www.linkedin.com/groups/9504656/>
 
 Add an issue: <https://github.com/WASHNote/WASHWeb/issues>
