@@ -3,6 +3,8 @@ project:
 
 website:
   title: "WASH Web"
+  site-url: https://washnote.org
+  description: WASH Web is a set of participatory initiatives to give you and everyone you know better access to water, sanitation and hygiene information. 
   navbar:
     left:
       - href: index.qmd

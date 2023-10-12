@@ -1,6 +1,8 @@
 [
   {
     "listing": "/posts.html",
-    "items": []
+    "items": [
+      "/posts/2023-09-26-intro/index.html"
+    ]
   }
 ]
