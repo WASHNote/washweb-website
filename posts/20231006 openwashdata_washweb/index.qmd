@@ -1,0 +1,32 @@
+---
+title: "openwashdata & WASH Web"
+description: "Collaboration between openwashdata & WASH Web"
+author: "Merel Laauwen"
+date: "2023-10-06"
+date-modified: today
+draft: true
+---
+
+Until now, the majority of data and information in the water, sanitation, and hygiene (WASH) sector, such as reports, datasets, and analyses, remain largely in the hands of experts. Even information that is available, is often in formats that are not usable for further research. To target this need, both WASH Web and openwashdata are on a mission to improve the discoverability, representability and usefulness of WASH data.
+
+WASH Web is a participatory, bottom-up initiative made up of four main working groups: Social Justice, Using Data Better, Systems Thinking, and Accountability: 4Ws. Through our participatory approach, we hope to engage people from a variety of sectors in leading and contributing to these working groups. If you're curious to know more about the origin of WASH Web, you can find our introductory blogpost here.
+
+Openwashdata is an active global community that applies FAIR principles to data generated in the great WASH sector. Their mission is to empower WASH professionals to engage with tools and workflows for open data and code. To realize their mission, openwashdata allows individuals to:
+
+-   Receive credit for or work that is not a scientific paper
+
+-   Give recognition to those that support your work
+
+-   Tell stories with data that haven\'t yet been told
+
+-   Meet people that care about data and code being open and reusable.
+
+In addition, they have recently launched their first course on data science for openwashdata, which is available [here](https://ds4owd-001.github.io/website/).
+
+Aligned in their vision and with clear short-term goals, WASH Web and openwashdata have formed a strategic partnership to facilitate improvements in WASH data access and recognition.
+
+Interested in this work and want to learn more?
+
+Follow WASH Web on LinkedIn: <https://www.linkedin.com/company/washweb/>
+
+Sign up for the openwashdata newsletter: <https://openwashdata.org/>
