@@ -17,7 +17,7 @@ Openwashdata is an active global community that applies FAIR principles to data 
 
 -   Give recognition to those that support your work
 
--   Tell stories with data that haven\'t yet been told
+-   Tell stories with data that haven't yet been told
 
 -   Meet people that care about data and code being open and reusable.
 
