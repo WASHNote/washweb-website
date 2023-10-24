@@ -18,6 +18,7 @@ Openwashdata's goal is to empower WASH professionals to engage with tools and wo
 -   Receive credit for or work that is not a scientific paper
 -   Give recognition to those that support your work
 -   Tell stories with data that haven't yet been told
+-   Tell stories with data that haven't yet been told
 -   Meet people that care about data and code being open and reusable.
 
 In addition, openwashdata has recently launched their first academy course on data science, which is available [here](https://ds4owd-001.github.io/website/) for people with a range of experience with coding.
