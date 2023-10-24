@@ -10,7 +10,7 @@ The WASH Web is made up of people and organizations that work to fill the water,
 
 # Working group initiatives
 
-The work groups facilitate collaboration and discussions on four different initiatives for an improved and healthy data environment.
+The working groups facilitate collaboration and discussions on four different initiatives for an improved and healthy data environment.
 
 ## Social Justice
 
@@ -32,8 +32,10 @@ The actors accountable for water and sanitation decision-making are often disper
 
 Citizens, suppliers, NGOs and governments can take part to better use evidence to and to make information accessible.
 
-Are you interested in one of these initiatives? Please join our LinkedIn group or add an issue on Github.
+## How can you participate?
 
-WASH Web LinkedIn Community: <https://www.linkedin.com/groups/9504656/>
+Are you interested in one of these initiatives? Find out more about [how to join here](https://washweb.org/join.html).
 
-Add an issue: <https://github.com/WASHNote/WASHWeb/issues>
+For updates on WASH Web's work, follow us on LinkedIn: <https://www.linkedin.com/company/washweb/>
+
+Feel free to add an issue on Github: <https://github.com/WASHNote/WASHWeb/issues>
