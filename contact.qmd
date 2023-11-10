@@ -6,7 +6,7 @@ title: "Contact"
 
 #### Nicolas Dickinson - WASH Web Lead
 
-Founder of [WASHNote](#0). With over 15 years of experience in the WASH sector, Nick is highly specialized in the development of international and regional monitoring of WASH commitments and their enabling environments, providing country-led monitoring and evaluation of services, and facilitating trainings to a range of different organizations. Above all, he firmly believes in the need for making better use of data and digital systems to advance towards reaching SDG 6: clean water and sanitation for all by 2030.
+Founder of [WASHNote](https://washnote.com). With over 15 years of experience in the WASH sector, Nick is highly specialized in the development of international and regional monitoring of WASH commitments and their enabling environments, providing country-led monitoring and evaluation of services, and facilitating trainings to a range of different organizations. Above all, he firmly believes in the need for making better use of data and digital systems to advance towards reaching SDG 6: clean water and sanitation for all by 2030.
 
 [Email](mailto:dickinson@washnote.com){target="_blank"} \| [LinkedIn](https://www.linkedin.com/in/nicolasdickinson/)
 
@@ -15,3 +15,11 @@ Founder of [WASHNote](#0). With over 15 years of experience in the WASH sector, 
 Merel works as an [independent consultant](https://www.lwn.earth/) in the WASH sector. Her work spans a variety of topics, from WASH systems strengthening to disaster preparedness in humanitarian settings. She studied an MSc in Water Science, Policy and Management at the University of Oxford, where her dissertation research focused on the use of systems thinking in the implementation of rural water treatment.
 
 [Email](mailto:merel@lwn.earth){target="_blank"} \| [LinkedIn](https://www.linkedin.com/in/merel-laauwen/)
+
+#### Have an issue or idea that you would like discussed?
+
+If you have ideas or issues and you do not feel that they fit in one of the discussion topics, you have several options:
+
+1.  Go to the [our lobby on matrix](https://washweb.org/join.html) and share your thoughts there with everyone in the lobby, including the coordinators.
+
+2.  Are you a developer or want a forum like experience? Post an issue: https://git.washnote.org/WASHWeb/washweb-ideas

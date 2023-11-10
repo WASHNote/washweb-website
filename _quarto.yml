@@ -12,6 +12,7 @@ website:
       - vision.qmd
       - contact.qmd
       - posts.qmd
+      - contributor.qmd
 
 format:
   html:

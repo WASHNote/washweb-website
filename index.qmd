@@ -37,5 +37,3 @@ Citizens, suppliers, NGOs and governments can take part to better use evidence t
 Are you interested in one of these initiatives? Find out more about [how to join here](https://washweb.org/join.html).
 
 For updates on WASH Web's work, follow us on LinkedIn: <https://www.linkedin.com/company/washweb/>
-
-Feel free to add an issue on Github: <https://github.com/WASHNote/WASHWeb/issues>
