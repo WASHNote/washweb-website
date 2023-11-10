@@ -4,7 +4,7 @@ title: "Joining the Working Groups"
 
 We facilitate the four working groups through Matrix "rooms". By means of free discussion, members can collaborate on one (or more!) of the working group topics.
 
-### Step 1: Install Matrix 
+### Step 1: Install Matrix
 
 The easiest way to access Matrix is through Element.
 
@@ -14,8 +14,7 @@ The easiest way to access Matrix is through Element.
 
 ### Step 2: Create an account
 
-To register, you may use either your email, existing Github, Google, Gitlab,
-Facebook or Apple account.
+To register, you may use either your email, existing Github, Google, Gitlab, Facebook or Apple account.
 
 ### Step 3: Join the WASH Web lobby & working groups!
 
@@ -36,5 +35,3 @@ Join any of the groups you are interested in by clicking the corresponding links
 ## Stay updated!
 
 [Linkedin](https://www.linkedin.com/company/washweb/)
-
-[Github](https://github.com/WASHNote/WASHWeb)
