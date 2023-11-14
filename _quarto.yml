@@ -9,9 +9,12 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: join.qmd
+        text: Join
       - vision.qmd
       - contact.qmd
       - posts.qmd
+      - contributor.qmd
 
 format:
   html:
