@@ -11,7 +11,7 @@ steps:
     image: git.coopcloud.tech/coop-cloud/docker-cp-deploy:latest
     settings:
       host: washnote.org
-      port: 2222
+      port: 222
       service: washweb_org
       source: .
       dest: /usr/share/nginx/html/
@@ -34,7 +34,7 @@ steps:
     image: git.coopcloud.tech/coop-cloud/docker-cp-deploy:latest
     settings:
       host: washnote.org
-      port: 2222
+      port: 222
       service: dev_washweb_org
       source: .
       dest: /usr/share/nginx/html/
