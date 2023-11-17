@@ -12,7 +12,7 @@ steps:
     settings:
       host: washnote.org
       port: 222
-      service: washweb_org
+      service: washweb_org_app
       source: .
       dest: /usr/share/nginx/html/
       chdir: _site
@@ -35,7 +35,7 @@ steps:
     settings:
       host: washnote.org
       port: 222
-      service: dev_washweb_org
+      service: dev_washweb_org_app
       source: .
       dest: /usr/share/nginx/html/
       chdir: _site
