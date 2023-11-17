@@ -2,12 +2,19 @@
 kind: pipeline
 name: deploy to washweb.org
 steps:
+  - name: restore-cache
+    image: drillster/drone-volume-cache
+    restore: true
+    mount:
+      - /usr/local/lib/R/site-library
+    volumes:
+      - /tmp/cache:/cache
   - name: build quarto site
     image: cynkra/quarto-r:1.4.169-4.3.1
     commands:
       - 'echo "install.packages(\"rmarkdown\")" | r -'
       - quarto render
-  - name: deploy to running app instance
+  - name: deploy to washweb.org
     image: git.coopcloud.tech/coop-cloud/docker-cp-deploy:latest
     settings:
       host: washnote.org
@@ -21,16 +28,7 @@ steps:
     when:
       branch:
        - main
----
-kind: pipeline
-name: deploy to dev.washweb.org
-steps:
-  - name: build quarto site
-    image: cynkra/quarto-r:1.4.169-4.3.1
-    commands:
-      - 'echo "install.packages(\"rmarkdown\")" | r -'
-      - quarto render
-  - name: deploy to running app instance
+  - name: deploy to dev.washweb.org
     image: git.coopcloud.tech/coop-cloud/docker-cp-deploy:latest
     settings:
       host: washnote.org
@@ -44,3 +42,10 @@ steps:
     when:
       branch:
        - dev
+  - name: rebuild-cache
+    image: drillster/drone-volume-cache
+    rebuild: true
+    mount:
+      - /usr/local/lib/R/site-library
+    volumes:
+      - /tmp/cache:/cache
