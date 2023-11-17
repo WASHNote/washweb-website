@@ -1,6 +1,6 @@
 ---
 kind: pipeline
-name: deploy to quarto.washnote.org
+name: deploy to washweb.org
 steps:
   - name: build quarto site
     image: cynkra/quarto-r:1.4.169-4.3.1
@@ -12,7 +12,7 @@ steps:
     settings:
       host: washnote.org
       port: 2222
-      service: dev_washnote_org
+      service: washweb_org
       source: .
       dest: /usr/share/nginx/html/
       chdir: _site
@@ -21,3 +21,26 @@ steps:
     when:
       branch:
        - main
+---
+kind: pipeline
+name: deploy to dev.washweb.org
+steps:
+  - name: build quarto site
+    image: cynkra/quarto-r:1.4.169-4.3.1
+    commands:
+      - 'echo "install.packages(\"rmarkdown\")" | r -'
+      - quarto render
+  - name: deploy to running app instance
+    image: git.coopcloud.tech/coop-cloud/docker-cp-deploy:latest
+    settings:
+      host: washnote.org
+      port: 2222
+      service: dev_washweb_org
+      source: .
+      dest: /usr/share/nginx/html/
+      chdir: _site
+      deploy_key:
+        from_secret: drone_ssh_washnote_org
+    when:
+      branch:
+       - dev
