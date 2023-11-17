@@ -4,9 +4,10 @@ name: deploy to washweb.org
 steps:
   - name: restore-cache
     image: drillster/drone-volume-cache
-    restore: true
-    mount:
-      - /usr/local/lib/R/site-library
+    settings:
+      restore: true
+      mount:
+        - /usr/local/lib/R/site-library
     volumes:
       - name: cache
         path: /cache
@@ -45,9 +46,10 @@ steps:
        - dev
   - name: rebuild-cache
     image: drillster/drone-volume-cache
-    rebuild: true
-    mount:
-      - /usr/local/lib/R/site-library
+    settings:
+      rebuild: true
+      mount:
+        - /usr/local/lib/R/site-library
     volumes:
       - name: cache
         path: /cache
