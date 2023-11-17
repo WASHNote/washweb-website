@@ -11,11 +11,16 @@ steps:
     volumes:
       - name: cache
         path: /cache
+      - name: lib
+        path: /usr/local/lib/R/site-library
   - name: build quarto site
     image: cynkra/quarto-r:1.4.169-4.3.1
     commands:
       - 'echo "install.packages(\"rmarkdown\")" | r -'
       - quarto render
+    volumes:
+      - name: lib
+        path: /usr/local/lib/R/site-library
   - name: deploy to washweb.org
     image: git.coopcloud.tech/coop-cloud/docker-cp-deploy:latest
     settings:
@@ -53,9 +58,13 @@ steps:
     volumes:
       - name: cache
         path: /cache
+      - name: lib
+        path: /usr/local/lib/R/site-library
 
 
 volumes:
 - name: cache
   host:
     path: /tmp/drone/cache
+- name: lib
+  temp: {}
