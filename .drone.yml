@@ -1,18 +1,32 @@
 ---
 kind: pipeline
-name: deploy to quarto.washnote.org
+name: deploy to washweb.org
 steps:
+  - name: restore-cache
+    image: drillster/drone-volume-cache
+    settings:
+      restore: true
+      mount:
+        - /usr/local/lib/R/site-library
+    volumes:
+      - name: cache
+        path: /cache
+      - name: lib
+        path: /usr/local/lib/R/site-library
   - name: build quarto site
     image: cynkra/quarto-r:1.4.169-4.3.1
     commands:
       - 'echo "install.packages(\"rmarkdown\")" | r -'
       - quarto render
-  - name: deploy to running app instance
+    volumes:
+      - name: lib
+        path: /usr/local/lib/R/site-library
+  - name: deploy to washweb.org
     image: git.coopcloud.tech/coop-cloud/docker-cp-deploy:latest
     settings:
       host: washnote.org
-      port: 2222
-      service: dev_washnote_org
+      port: 222
+      service: washweb_org_app
       source: .
       dest: /usr/share/nginx/html/
       chdir: _site
@@ -21,3 +35,36 @@ steps:
     when:
       branch:
        - main
+  - name: deploy to dev.washweb.org
+    image: git.coopcloud.tech/coop-cloud/docker-cp-deploy:latest
+    settings:
+      host: washnote.org
+      port: 222
+      service: dev_washweb_org_app
+      source: .
+      dest: /usr/share/nginx/html/
+      chdir: _site
+      deploy_key:
+        from_secret: drone_ssh_washnote_org
+    when:
+      branch:
+       - dev
+  - name: rebuild-cache
+    image: drillster/drone-volume-cache
+    settings:
+      rebuild: true
+      mount:
+        - /usr/local/lib/R/site-library
+    volumes:
+      - name: cache
+        path: /cache
+      - name: lib
+        path: /usr/local/lib/R/site-library
+
+
+volumes:
+- name: cache
+  host:
+    path: /tmp/drone/cache
+- name: lib
+  temp: {}
