@@ -6,6 +6,7 @@ website:
   site-url: https://washnote.org
   description: WASH Web is a set of participatory initiatives to give you and everyone you know better access to water, sanitation and hygiene information. 
   navbar:
+    logo: "images/WASHWEB-logotype-colour-1-RGB.png"
     left:
       - href: index.qmd
         text: Home
