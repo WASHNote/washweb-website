@@ -19,7 +19,8 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: lux
+    mainfont: DM-sans
     css: styles.css
     toc: true
 
