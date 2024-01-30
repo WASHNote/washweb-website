@@ -4,7 +4,7 @@ title: "Team"
 
 ## Core facilitating team
 
-![](images/Nick.png){fig-align="center"}
+![](images/Nick.png){fig-align="center" width="279"}
 
 #### Nicolas Dickinson - WASH Web Lead
 
@@ -12,7 +12,7 @@ Founder of [WASHNote](https://washnote.com). With over 15 years of experience in
 
 [Email](mailto:dickinson@washnote.com){target="_blank"} \| [LinkedIn](https://www.linkedin.com/in/nicolasdickinson/)
 
-![](images/Merel.png){fig-align="center"}
+![](images/Merel.png){fig-align="center" width="236"}
 
 #### Merel Laauwen - WASH Web Coordinator
 
