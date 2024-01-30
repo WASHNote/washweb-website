@@ -1,0 +1,55 @@
+/*-- scss:defaults --*/
+@import url('https://fonts.googleapis.com/css?family-DM_Sans');
+
+/*-- Define colors for later use --*/
+$black:     #000;
+$gray:      #495057;
+$primary:   #0f2def;
+$secondary: #8934f7;
+$violet:    #4933b5;
+$blue:      #03a0f4;
+$tertiary:  #05d7e2;
+$pastel:    #e7eafe;
+$white:     #fff;
+
+
+/*-- Define Bootstrap color variables --*/
+
+// The page background color. 
+$body-bg: $white;
+// The page text color.
+$body-color: $black;
+// Code block background.
+$code-block-bg: $violet;
+//Color of inline code.
+$code-color: $white;
+
+
+/*-- Define Bootstrap font variables --*/
+
+// The sans-serif font family for the page. 
+$font-family-sans-serif: "DM Sans", "Open Sans", "serif";
+// The monospace font family for the page. 
+$font-family-monospace: "Noto Sans Mono", "Source Code Pro", "Courier New", "mono-space"; 
+//The base font size for the page. 
+$font-size-base: 1rem;
+
+
+/*-- Define TOC format --*/
+
+//TOC color
+$toc-color: $secondary;
+
+
+/*-- scss:rules --*/
+
+//Header text color
+h1, .h1, h2, .h2 {
+  color: $violet;
+  font-family: "DM Sans";
+}
+
+//Logo size
+.navbar-logo {
+    max-height: 60px;
+}

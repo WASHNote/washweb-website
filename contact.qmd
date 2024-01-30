@@ -1,14 +1,18 @@
 ---
-title: "Contact"
+title: "Team"
 ---
 
 ## Core facilitating team
+
+![](images/Nick.png){fig-align="center"}
 
 #### Nicolas Dickinson - WASH Web Lead
 
 Founder of [WASHNote](https://washnote.com). With over 15 years of experience in the WASH sector, Nick is highly specialized in the development of international and regional monitoring of WASH commitments and their enabling environments, providing country-led monitoring and evaluation of services, and facilitating trainings to a range of different organizations. Above all, he firmly believes in the need for making better use of data and digital systems to advance towards reaching SDG 6: clean water and sanitation for all by 2030.
 
 [Email](mailto:dickinson@washnote.com){target="_blank"} \| [LinkedIn](https://www.linkedin.com/in/nicolasdickinson/)
+
+![](images/Merel.png){fig-align="center"}
 
 #### Merel Laauwen - WASH Web Coordinator
 
