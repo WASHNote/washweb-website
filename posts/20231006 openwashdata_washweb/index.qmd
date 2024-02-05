@@ -57,7 +57,7 @@ Through our participatory approach, we hope to engage people from a variety of s
 
 -   [Social Justice:]{.underline} Access to safe drinking water is a basic human right, and access to WASH systems is a social justice issue. What information is needed to improve access for marginalized people? What specific ethical issues around data collection, privacy, data ownership, and use of data need to be addressed?
 
-If you’re curious to know more about the origin of WASHWeb, you can read more in [our introductory blogpost](https://washweb.org/posts/2023-09-26-intro/). Learn more about joining the WASHWeb community [on our website](https://washweb.org/join.html).
+If you’re curious to know more about the origin of WASHWeb, you can read more in [our introductory blogpost](/posts/2023-09-26-intro/). Learn more about joining the WASHWeb community [on our website](https://washweb.org/join.html).
 
 ### **Interested in this work and want to learn more?**
 
