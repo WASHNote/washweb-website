@@ -2,25 +2,35 @@ project:
   type: website
 
 website:
-  title: "WASH Web"
+  title: "WASHWeb"
   site-url: https://washnote.org
   description: WASH Web is a set of participatory initiatives to give you and everyone you know better access to water, sanitation and hygiene information. 
+  favicon: "images/icon.png"
   navbar:
-    logo: "images/WASHWEB-logotype-colour-1-RGB.png"
-    left:
-      - href: index.qmd
-        text: Home
+    logo: "images/WASHWEB-logotype-white-1-RGB.png"
+    logo-alt: "WASHWeb logo"
+    title: false
+    css: logo.css
+    right:
       - href: join.qmd
         text: Join
       - vision.qmd
-      - contact.qmd
+      - href: contact.qmd
+        text: Team
       - posts.qmd
       - contributor.qmd
+    tools: 
+      - icon: linkedin
+        href: https://www.linkedin.com/company/washweb/
+        text: WASHWeb Linkedin
+      - icon: git
+        href: https://git.washnote.org/WASHWeb/washweb-ideas
+        text: WASHWeb git
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      - custom.scss
     toc: true
 
 editor: visual

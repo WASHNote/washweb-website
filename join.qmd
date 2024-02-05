@@ -16,11 +16,11 @@ The easiest way to access Matrix is through Element.
 
 To register, you may use either your email, existing Github, Google, Gitlab, Facebook or Apple account.
 
-### Step 3: Join the WASH Web lobby & working groups!
+### Step 3: Join the WASHWeb lobby & working groups
 
 Join any of the groups you are interested in by clicking the corresponding links below:
 
--   [General WASH Web Lobby](https://matrix.to/#/#wash-web-lobby:autonomic.zone)
+-   [General WASHWeb Lobby](https://matrix.to/#/#wash-web-lobby:autonomic.zone)
 
 -   [Social Justice](https://matrix.to/#/#washweb-social-justice:matrix.org)
 
