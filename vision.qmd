@@ -4,7 +4,7 @@ title: "Vision"
 
 At the core of the vision, the idea is to make information discoverable, representative, and useful.
 
-![](images/Screen%20Shot%202023-06-27%20at%2011.12.19%20AM.png){fig-align="center" width="270"}
+![WASHWeb's vision for an improved data ecosystem](images/washwebvision.png){fig-align="center" width="518"}
 
 **Discoverable** means that it can not only be found through search and also by simply showing interest in the area and somehow you discover it. Browsing wikipedia articles should be sufficient to find key statistics on water and sanitation. At the moment, these statistics are a few steps away in specialist websites like washdata.org and this information is not automatically used in those articles. Showing interest in a specific district and search "water" and the name of US county should give key facts about water supplies. Data may already be available but simply not discoverable.
 
@@ -12,7 +12,7 @@ At the core of the vision, the idea is to make information discoverable, represe
 
 **Useful** information is information from which one can begin to take action. Often key information about who to contact for more information, what happened, when and where is missing. If there is information about water services or sanitation, these are often dated.
 
-In short, the WASH Web community makes information and expertise more accessible so that it is no longer only experts who are able to make informed decisions based on available evidence. Up until now, WASH Web has been an idea and a project that a few people have been playing with. This website and the project is open source and participatory meaning it is open to the initiative and inputs from others. Currently, WASHNote hosts and maintains the project website and source code.
+In short, the WASHWeb community makes information and expertise more accessible so that it is no longer only experts who are able to make informed decisions based on available evidence. Until now, WASHWeb has been an idea and a project that a few people have been playing with. WASHWeb (including this website) is entirely open source and participatory, meaning it is open to the initiative and inputs from others. Currently, WASHNote hosts and maintains the project website and source code.
 
 Would you like to get involved? Please get in touch or add an issue on Github.
 

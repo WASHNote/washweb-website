@@ -2,11 +2,11 @@
 title: "Agents of Change"
 ---
 
-WASH Web is a set of participatory initiatives to give you and everyone you know better access to water, sanitation and hygiene information. This web page is where you can find more information about taking part in various ways.
+WASHWeb is a set of participatory initiatives to give you and everyone you know better access to water, sanitation and hygiene information. This web page is where you can find more information about taking part in various ways.
 
-The WASH Web is made up of people and organizations that work to fill the water, sanitation and hygiene (WASH) gap to make data discoverable, usable and representative. WASH Web is meant to serve as an open platform and requires diverse inputs to work. Our vision cannot be realized without community support.
+The WASHWeb is made up of people and organizations that work to fill the water, sanitation and hygiene (WASH) gap to make data discoverable, usable and representative. WASHWeb is meant to serve as an open platform and requires diverse inputs to work. Our vision cannot be realized without community support.
 
-[Please join us to contribute.](#join)
+[Join our working groups for more discussion, learning & collaboration.](#join)
 
 # Working group initiatives
 
@@ -26,7 +26,7 @@ In the WASH sector, it is increasingly recognized that systems strengthening is 
 
 ## Accountability: 4Ws
 
-The actors accountable for water and sanitation decision-making are often dispersed throughout diverse organizations. As a result, there is a scattered and disconnected WASH data ecosystem. It is proposed to make a WASH Registry to offer an overview of **who** is **where, when,** and doing **what** for formal change agents. Can this make the WASH sector more accountable?
+The actors accountable for water and sanitation decision-making are often dispersed throughout diverse organizations. As a result, there is a scattered and disconnected WASH data ecosystem. We propose to develop a registry of **Who** works in the sector, **What** they do, **Where** they do it, and **When** it’s been done so that data is placed in context. Can this make the WASH sector more accountable?
 
 ## Who can take part? {#join}
 
@@ -34,6 +34,6 @@ Citizens, publishers, private sector, NGOs and governments can take part to bett
 
 ## How can you participate?
 
-Are you interested in one of these initiatives? Find out more about [how to join here](https://washweb.org/join.html).
+Are you interested in one of these initiatives? Find out more about [how to join here](#join).
 
-For updates on WASH Web's work, follow us on LinkedIn: <https://www.linkedin.com/company/washweb/>
+For updates on WASH Web's work, [follow us on LinkedIn](https://www.linkedin.com/company/washweb/).
