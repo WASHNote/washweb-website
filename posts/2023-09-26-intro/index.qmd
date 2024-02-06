@@ -9,15 +9,21 @@ draft: false
 title-block-banner-color: "#FFFFFF"
 ---
 
+## Listening to stories
+
 Sitting together and listening to stories is a source of insight. At a young age, my parent's work on peace and reconciliation exposed me to thoughtful communicators from different places: Norwegian resistance fighter from WWII who survived against all odds and went on to work on reconciliation himself, Native American leaders and Indian leaders (from India) who processed together with Europeans and white Americans shared colonial legacies, musicians who faced incredible odds and sang about it, and Cambodian educators who survived and outlasted the Khmer Rouge. I also had the opportunity to travel and experience different cultures. Through libraries and books, I continued to travel to new places.
 
 As personal computers and then internet took off, my curiosity and computer programming led me to develop early information products like websites and hypercards from the mid to late 1990s. I was excited about the possibility to connect to even more of the world and to learn and share stories. Finally, my studies and work, especially from 2001 onwards, brought my passion for sharing knowledge and experiences to the water, sanitation and hygiene space. However, one thing still strikes me: listening to stories from people with different experiences is how I learn the most. They are a source of my inspiration and help me both frame and validate the information I get from diverse sources.
 
+## Telling and accessing stories about water, sanitation & hygiene
+
 We continue to tell stories with the purpose of improving knowledge in water, sanitation and hygiene. While we tell stories in our sector and produce reports, there is often a barrier between experts who communicate in conferences and users in communities: we use different language, talk in different forums, and have different interests. But by having more exchanges between experts and non-experts these barriers can be overcome. As a result, knowledge can be discovered when it is needed by whom it is needed. Listening, validation and respect are essential so that data and information are owned by those who produce it. With WASHWeb, we want participation in a space where this happens. Discussions already taking place can become more accessible.
+
+## Data for action: WASHWeb
 
 But back to my story: I am remain surprised when I receive a request to work on one more national database or to produce one more programme evaluation or one more national monitoring and evaluation manual. While this has been my bread and butter for a number of years now, I am convinced that focusing more on data for action is less about these artifacts (databases and manuals) and more about the action and vision that produces data and the people who use information. Working to address people going back to open defecation after having a latrine in a community gives the opportunity to identify and collect data that will make a difference, such as understanding the latrine types and quality of latrines households use. It gives us a sense of how these factors impact the ability of people to continue to use latrines. The information is not the source of improvement. The source of improvement is from the vision and will to address a challenge of open defection. Does it require targeted subsidies? Does it require a new sanitation product by a local innovator? How can that be developed? These questions are answered through collective action and collective information sharing. Data alone is not the answer.
 
-I would like to invite you to take part in a few different discussions with your colleagues, with the people you speak to day to day, and with partners and leaders:
+I would like to invite you to take part in a few [different discussions](/index) with your colleagues, with the people you speak to day to day, and with partners and leaders:
 
 -   Using data better: How can we leverage all the activities, surveys, communication and information that is already there without overburdening people?
 
