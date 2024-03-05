@@ -1,10 +1,5 @@
 ---
 title: "Building a community to improve access to WASH information"
-format:
-  html:
-    include-in-header:
-      text: |
-        <script defer data-domain="washweb.org" src="https://plausible.demo.coopcloud.tech/js/script.js"></script>
 ---
 
 WASHWeb is a set of participatory initiatives to give you and everyone you know better access to water, sanitation and hygiene information. This web page is where you can find more information about taking part in various ways.
