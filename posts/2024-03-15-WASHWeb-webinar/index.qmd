@@ -1,0 +1,38 @@
+---
+title: "WASHWeb Webinar: The Future of Our WASH Data Ecosystem"
+description: "WASHWeb is hosting it's first webinar with guest speakers from Akvo, Aquaya, IRCWASH Systems Academy, mWater, openwashdata, Segura Consulting, WASHAI, and WASHNote."
+author: "Merel Laauwen"
+date: "2024-03-15"
+date-modified: today
+image: promo.png
+draft: false
+title-block-banner-color: "#FFFFFF"
+---
+
+## Description
+
+WASHWeb is proud to announce that it is hosting its first ever webinar, with guest speakers from Akvo, Aquaya, IRCWASH Systems Academy, mWater, openwashdata, Segura Consulting, WASHAI, and WASHNote.
+
+We will delve into different innovations working towards an improved WASH data ecosystem - from the use of AI and open data, to creating scalable management information systems. Curious to know more? Register below.
+
+## Host
+
+-   WASHWeb
+
+## Speakers
+
+-   [Lars Schöbitz](https://www.linkedin.com/in/larsschoebitz/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3ByxMPGK4pSHqd9WoSe2r1RA%3D%3D) - Community Manager, [openwashdata](https://openwashdata.org/)
+
+-   [Petri Autio](https://www.linkedin.com/in/petriautio/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BisTueTpWRm6hKW7gHDhYWA%3D%3D) - Head of Product, [mWater](https://www.mwater.co/)
+
+-   [Jeske Verhoeven](https://www.linkedin.com/in/jeske-verhoeven-77741262/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B8CqLU0UWT2CugjTKdsHNQg%3D%3D) - Programme Officer, [IRCWASH](https://www.ircwash.org/)
+
+-   [Emeline Bereziat](https://www.linkedin.com/in/emeline-bereziat-603a7628/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B%2Bgg1FOwNR76UC6Xa8hdU8Q%3D%3D) - Water Lead, [Akvo](https://akvo.org/) & [Katy Sill](https://www.linkedin.com/in/katy-sill/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BnsZsAYSURaOh8%2B6aKoKRkQ%3D%3D) - Chief of Party, USAID WSSH Data & Analytics, [SEGURA Consulting](https://seguraconsulting.net/mobile)
+
+-   [Olivier Mills](https://www.linkedin.com/in/oliviermills/) - Founder, [WASHAI](https://www.washai.org/)
+
+-   [Duncan Penfold-Brown](https://www.linkedin.com/in/dpenfoldbrown/) - Senior Data Scientist and Project Manager, [Aquaya](https://aquaya.org/)
+
+## **Zoom registration link:**
+
+<https://us06web.zoom.us/meeting/register/tZUpfuGqqjoqEtEzlGdETK1t7dPsfswHnozN#/registration>
