@@ -21,6 +21,7 @@ steps:
       - 'echo "install.packages(\"here\")" | r -'
       - 'echo "install.packages(\"dplyr\")" | r -'
       - 'echo "install.packages(\"knitr\")" | r -'
+      - 'echo "install.packages(\"stringr\")" | r -'
       - quarto render
     volumes:
       - name: lib
