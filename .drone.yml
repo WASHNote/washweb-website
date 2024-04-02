@@ -18,6 +18,7 @@ steps:
     commands:
       - 'echo "install.packages(\"rmarkdown\")" | r -'
       - 'echo "install.packages(\"readr\")" | r -'
+      - 'echo "install.packages(\"here\")" | r -'
       - quarto render
     volumes:
       - name: lib
