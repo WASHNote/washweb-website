@@ -2,7 +2,7 @@
 title: "Joining the Discussion Groups"
 ---
 
-We facilitate discussions through Matrix "rooms". By means of open participation and free discussion, members can collaborate on one (or multiple) of the working group topics.
+WASHWeb facilitates discussions through Matrix "rooms". By means of open participation and free discussion, members can collaborate on one (or multiple) of the working group topics.
 
 ## Installing and joining Matrix
 

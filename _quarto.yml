@@ -17,6 +17,8 @@ website:
       - vision.qmd
       - href: contact.qmd
         text: Team
+      - href: events/index.qmd
+        text: Events
       - posts.qmd
       - contributor.qmd
     tools: 
