@@ -19,6 +19,8 @@ steps:
       - 'echo "install.packages(\"rmarkdown\")" | r -'
       - 'echo "install.packages(\"readr\")" | r -'
       - 'echo "install.packages(\"here\")" | r -'
+      - 'echo "install.packages(\"dplyr\")" | r -'
+      - 'echo "install.packages(\"knitr\")" | r -'
       - quarto render
     volumes:
       - name: lib
