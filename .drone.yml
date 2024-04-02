@@ -16,7 +16,7 @@ steps:
   - name: build quarto site
     image: cynkra/quarto-r:1.4.169-4.3.1
     commands:
-      - 'echo "install.packages(\"rmarkdown\")" | r -'
+      - 'echo "install.packages(\"rmarkdown\", \"readr\")" | r -'
       - quarto render
     volumes:
       - name: lib
