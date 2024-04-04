@@ -6,13 +6,22 @@ WASHWeb facilitates discussions through Matrix "rooms". By means of open partici
 
 ## Find WASHWeb on Matrix
 
-1.  First, [install and join Matrix].
-2.  Next, join the general WASHWeb space by [clicking here](https://matrix.to/#/#wash-web:autonomic.zone).
-3.  After joining the general WASHWeb space, you can choose to join specific working groups directly in Matrix or by clicking the links below:
-    1.  [Using Data Better](https://matrix.to/#/#washweb-using-data-better:matrix.org)
-    2.  [Social Justice](https://matrix.to/#/#washweb-social-justice:matrix.org)
-    3.  [Systems Thinking](https://matrix.to/#/#washweb-systems:matrix.org)
-    4.  [Accountability](https://matrix.to/#/#accountability-4ws:matrix.org)
+1.  First, [Install and join Matrix].
+2.  Next, join the general WASHWeb room by clicking the logo below.
+
+![](join/WASHWeb.png){fig-align="center" width="131"}
+
+2.  After joining the general WASHWeb room, you can choose to join specific working groups by clicking the logos below.
+
+![](join/UsingDataBetter.png){fig-align="center" width="300"}
+
+![](join/Social%20Justice.png){fig-align="center" width="300"}
+
+![](join/SystemsThinking.png){fig-align="center" width="300"}
+
+![](join/Accountability.png){fig-align="center" width="300"}
+
+## 
 
 ## Install and join Matrix
 
