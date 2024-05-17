@@ -69,27 +69,16 @@ One of the most engaging segments of the webinar was the panel discussion, where
 
 Did you miss the webinar? The recording is now available on [WASHWeb's YouTube channel](https://youtu.be/jDKfOT3vBPU?si=yuU_fz5x3GvVxo5d). All presentations are downloadable via [Dropbox](https://www.dropbox.com/scl/fi/iq8ze0ep444rbfzfgr21d/WASHWeb_webinar_all_slides_240404.pdf?rlkey=rs26tn76nyuva7733y3mw3hzw&e=1&st=yk7862ib&dl=0).
 
-<<<<<<< HEAD
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jDKfOT3vBPU?si=vLa252b0lPDSyTDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 
 </iframe>
 
-=======
->>>>>>> 83202c6 (adding SWWW as an event and publishing the blogpost)
 ## Upcoming events
 
 ### Next webinar
 
-<<<<<<< HEAD
 The next webinar will take place July 11th and will focus on 'Partnerships for WASH Data'. Would you like to use the WASHWeb platform to present your work or ideas? Please reach out via hello\@washweb.org.
 
 ### Stockholm World Water Week
 
 WASHWeb will also be represented at [Stockholm World Water Week](https://www.worldwaterweek.org/) this year, where we will be hosting a session in collaboration with [openwashdata](https://openwashdata.org/) titled '[Unlocking the hidden potential of open WASH data](/events/2024_10_29_SWWW/)'. Where our first webinar focused on innovations in the WASH data space, this workshop will allow participants to engage with open data practices and using existing data better by brainstorming collaboratively about sector-specific challenges. Guest speakers include representatives from the [WHO](https://www.who.int/teams/environment-climate-change-and-health/water-sanitation-and-health/monitoring-and-evidence/wash-systems-monitoring/un-water-global-analysis-and-assessment-of-sanitation-and-drinking-water), [IRCWASH](https://www.ircwash.org/), [BASEflow](https://baseflowmw.org/), [DigDeep](https://www.digdeep.org/), [University of Kwazulu-Natal](https://ww3.ukzn.ac.za/), and the [Government of South Africa](https://www.cogta.gov.za/).
-=======
-The next webinar will take place in July and will focus on an improved use of existing data. Would you like to use the WASHWeb platform to present your work or ideas? Please reach out via hello\@washweb.org.
-
-### Stockholm World Water Week
-
-WASHWeb will also be represented at [Stockholm World Water Week](https://www.worldwaterweek.org/) this year, where we will be hosting a session in collaboration with [openwashdata](https://openwashdata.org/) titled 'Unlocking the hidden potential of open WASH data'. Where our first webinar focused on innovations in the WASH data space, this workshop will allow participants to engage with open data practices and using existing data better by brainstorming collaboratively about sector-specific challenges. Guest speakers include representatives from the [WHO](https://www.who.int/teams/environment-climate-change-and-health/water-sanitation-and-health/monitoring-and-evidence/wash-systems-monitoring/un-water-global-analysis-and-assessment-of-sanitation-and-drinking-water), [IRCWASH](https://www.ircwash.org/), [BASEflow](https://baseflowmw.org/), [DigDeep](https://www.digdeep.org/), [University of Kwazulu-Natal](https://ww3.ukzn.ac.za/), and the [Government of South Africa](https://www.cogta.gov.za/).
->>>>>>> 83202c6 (adding SWWW as an event and publishing the blogpost)
