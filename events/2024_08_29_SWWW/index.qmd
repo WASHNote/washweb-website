@@ -1,0 +1,51 @@
+---
+title: "Stockholm World Water Week: Unlocking the hidden potential of open WASH data"
+description: |
+  WASHWeb and openwashdata will be hosting a highly interactive workshop session at World Water Week in Stockholm this year, titled "Unlocking the hidden potential of open WASH data". We welcome you to join us, either in-person or online. The speakers are highly cross-sectoral, spanning from public and private sector, local and international NGOs, and multilaterals.
+execute:
+    echo: false
+    warning: false
+editor_options: 
+  chunk_output_type: console
+  markdown: 
+    wrap: 72
+---
+
+## 🙋🏻‍♀️ Welcome!
+
+There is a hidden potential is WASH data that is unlocked when data is
+used and shared effectively. This event looks at the potential of open
+WASH data and how it can be used more appropriately. In particular, the
+event brings together partners across the public and private sector,
+local and international NGOs, and multilaterals to discuss how our
+community and partnership can have a greater impact through open WASH
+data.There is a hidden potential is WASH data that is unlocked when data
+is used and shared effectively. This event looks at the potential of
+open WASH data and how it can be used more appropriately. In particular,
+the event brings together partners across the public and private sector,
+local and international NGOs, and multilaterals to discuss how our
+community and partnership can have a greater impact through open WASH
+data.
+
+## 📆 Event Details
+
+-   **Date:** Thursday, August 29, 9:00 - 10:30 PM (CET)
+
+-   **Stockholm World Water Week Registration**:
+    <https://www.worldwaterweek.org/attending>
+
+-   🇺🇸 1:00 AM (MST - Boulder, USA)
+
+-   🇬🇧 8:00 PM (GMT - London, UK)
+
+-   🇳🇬 8:00 PM (WAT - Katsina, Nigeria)
+
+-   🇰🇪 10:00 PM (EAT - Nairobi, Kenya)
+
+-   🇮🇳 12:30 PM (IST - New Delhi, India)
+
+-   🇮🇩 14:00 PM (WIB - Jakarta, Indonesia)
+
+## Slides
+
+Will be shared following the event.

@@ -32,7 +32,7 @@ scalable management information systems.
 
 -   🇬🇧 2:00 PM (GMT - London, UK)
 
--    🇳🇬 3:00 PM (WAT - Katsina, Nigeria)
+-   🇳🇬 3:00 PM (WAT - Katsina, Nigeria)
 
 -   🇰🇪 5:00 PM (EAT - Nairobi, Kenya)
 
@@ -58,4 +58,5 @@ agenda |>
 
 ## Slides
 
-Will be shared after event.
+[Slides can be accessed and downloaded via this Dropbox
+link.](https://www.dropbox.com/scl/fi/iq8ze0ep444rbfzfgr21d/WASHWeb_webinar_all_slides_240404.pdf?rlkey=rs26tn76nyuva7733y3mw3hzw&dl=0)

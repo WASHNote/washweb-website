@@ -4,7 +4,17 @@ title: "Joining the Discussion Groups"
 
 WASHWeb facilitates discussions through Matrix "rooms". By means of open participation and free discussion, members can collaborate on one (or multiple) of the working group topics.
 
-## Installing and joining Matrix
+## Find WASHWeb on Matrix
+
+1.  First, [install and join Matrix].
+2.  Next, join the general WASHWeb space by [clicking here](https://matrix.to/#/#wash-web:autonomic.zone).
+3.  After joining the general WASHWeb space, you can choose to join specific working groups directly in Matrix or by clicking the links below:
+    1.  [Using Data Better](https://matrix.to/#/#washweb-using-data-better:matrix.org)
+    2.  [Social Justice](https://matrix.to/#/#washweb-social-justice:matrix.org)
+    3.  [Systems Thinking](https://matrix.to/#/#washweb-systems:matrix.org)
+    4.  [Accountability](https://matrix.to/#/#accountability-4ws:matrix.org)
+
+## Install and join Matrix
 
 1.  Download and install Matrix. The easiest way to access Matrix is through Element.
 
@@ -47,22 +57,6 @@ WASHWeb facilitates discussions through Matrix "rooms". By means of open partici
 13. Generate a Security Key and store it somewhere safe, like a password manager. This will allow you to verify future sessions by using Security Keys
 
 14. You're in - now you can start exploring!
-
-## Find WASHWeb on Matrix
-
-1.  First, join the general WASHWeb room by clicking the logo below.
-
-[![](join/WASHWeb.png){fig-align="center" width="131"}](https://matrix.to/#/#wash-web-lobby:autonomic.zone)
-
-2.  After joining the general WASHWeb room, you can choose to join specific working groups by clicking the logos below.
-
-[![](join/UsingDataBetter.png){fig-align="center" width="300"}](https://matrix.to/#/%23washweb-using-data-better:matrix.org)
-
-![](join/Social Justice.png){fig-align="center" width="300"}
-
-[![](join/SystemsThinking.png){fig-align="center" width="300"}](https://matrix.to/#/%23washweb-systems:matrix.org)
-
-[![](join/Accountability.png){fig-align="center" width="300"}](https://matrix.to/#/%23accountability-4ws:matrix.org)
 
 ## **Element User Guide**
 

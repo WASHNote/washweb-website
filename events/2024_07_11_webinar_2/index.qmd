@@ -1,0 +1,38 @@
+---
+title: "WASHWeb Webinar: Partnerships for WASH Data"
+description: |
+  WASHWeb will be hosting its second online webinar exploring the use of partnerships for improved WASH data use and discoverability. 
+execute:
+    echo: false
+    warning: false
+editor_options: 
+  chunk_output_type: console
+  markdown: 
+    wrap: 72
+---
+
+## 🙋🏻‍♀️ Welcome!
+
+*More information coming soon...*
+
+## 📆 Event Details
+
+-   **Date:** Thursday, July 11, 15:00 - 16:30 PM (CET)
+
+-   **Zoom Registration**: *coming soon*
+
+-   🇺🇸 7:00 AM (MST - Boulder, USA)
+
+-   🇬🇧 2:00 PM (GMT - London, UK)
+
+-   🇳🇬 3:00 PM (WAT - Katsina, Nigeria)
+
+-   🇰🇪 5:00 PM (EAT - Nairobi, Kenya)
+
+-   🇮🇳 7:30 PM (IST - New Delhi, India)
+
+-   🇮🇩 9:00 PM (WIB - Jakarta, Indonesia)
+
+## Slides
+
+Will be shared following the event.
