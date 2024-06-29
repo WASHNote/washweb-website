@@ -34,6 +34,9 @@ format:
     theme:
       - custom.scss
     toc: true
+    include-in-header:
+      - text: |
+          <script defer data-domain="washweb.org" src="https://plausible.demo.coopcloud.tech/js/script.js"></script>
 
 editor: visual
 
