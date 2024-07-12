@@ -21,12 +21,22 @@ We will delve into different innovations working towards an improved
 WASH data ecosystem - from the use of AI and open data, to creating
 scalable management information systems.
 
+## Slides and recording
+
+Did you miss the webinar? The recording is now available on [WASHWeb's
+YouTube channel](https://youtu.be/jDKfOT3vBPU?si=yuU_fz5x3GvVxo5d). All
+presentations are downloadable via
+[Dropbox](https://www.dropbox.com/scl/fi/iq8ze0ep444rbfzfgr21d/WASHWeb_webinar_all_slides_240404.pdf?rlkey=rs26tn76nyuva7733y3mw3hzw&e=1&st=yk7862ib&dl=0).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jDKfOT3vBPU?si=vLa252b0lPDSyTDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
 ## 📆 Event Details
 
 -   **Date:** Thursday, April 04, 3:00 - 4:30 PM (CET)
 
--   **Zoom Registration**:
-    <https://us06web.zoom.us/meeting/register/tZUpfuGqqjoqEtEzlGdETK1t7dPsfswHnozN#/registration>
+-   **Zoom Registration**: Closed
 
 -   🇺🇸 7:00 AM (MST - Boulder, USA)
 
@@ -56,7 +66,4 @@ agenda |>
     
 ```
 
-## Slides
-
-[Slides can be accessed and downloaded via this Dropbox
-link.](https://www.dropbox.com/scl/fi/iq8ze0ep444rbfzfgr21d/WASHWeb_webinar_all_slides_240404.pdf?rlkey=rs26tn76nyuva7733y3mw3hzw&dl=0)
+## 
