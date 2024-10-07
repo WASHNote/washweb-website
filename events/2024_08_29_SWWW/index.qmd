@@ -14,7 +14,9 @@ editor_options:
 ## 🙋🏻‍♀️ Welcome!
 
 There is a hidden potential is WASH data that is unlocked when data is
-used and shared effectively. This event looks at the potential of open
+used and shared effectively. 
+
+This event looks at the potential of open
 WASH data and how it can be used more appropriately. In particular, the
 event brings together partners across the public and private sector,
 local and international NGOs, and multilaterals to discuss how our
@@ -26,6 +28,12 @@ the event brings together partners across the public and private sector,
 local and international NGOs, and multilaterals to discuss how our
 community and partnership can have a greater impact through open WASH
 data.
+
+## Slides and Recording
+
+Did you miss the webinar? The recording is now available on [Stockholm World Water Week Channel](https://www.youtube.com/watch?v=Otich0Msfic). All presentations are downloadable via [Dropbox](https://www.dropbox.com/scl/fi/tyzzfuraqahgdexfbw6z9/SWWW_-Unlocking-the-hidden-potential-of-open-WASH-data-slides.pdf?rlkey=5ciml4g2vqydhal0jlz3mq8et&dl=0).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Otich0Msfic?si=JAaPolltyNnsbsbf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 📆 Event Details
 
