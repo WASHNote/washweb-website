@@ -65,13 +65,17 @@ Katy Sill, alongside [Emeline Bereziat](https://www.linkedin.com/in/emeline-bere
 
 One of the most engaging segments of the webinar was the panel discussion, where experts tackled pressing questions from the audience, ranging from data security concerns to the challenges of integrating traditional data collection methods with modern technological tools. The discourse revealed a consensus on the need for more collaborative efforts to address the disparities in data availability and the adoption of new technologies in different regions.
 
-## Webinar recording & slides
+## Webinar recording
 
-Did you miss the webinar? The recording is now available on [WASHWeb's YouTube channel](https://youtu.be/jDKfOT3vBPU?si=yuU_fz5x3GvVxo5d). All presentations are downloadable via [Dropbox](https://www.dropbox.com/scl/fi/iq8ze0ep444rbfzfgr21d/WASHWeb_webinar_all_slides_240404.pdf?rlkey=rs26tn76nyuva7733y3mw3hzw&e=1&st=yk7862ib&dl=0).
+Did you miss the webinar? The recording is now available on [WASHWeb's YouTube channel](https://youtu.be/jDKfOT3vBPU?si=yuU_fz5x3GvVxo5d). 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jDKfOT3vBPU?si=vLa252b0lPDSyTDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 
 </iframe>
+
+## Slides
+
+Presentations are downloadable via [Dropbox](https://www.dropbox.com/scl/fi/iq8ze0ep444rbfzfgr21d/WASHWeb_webinar_all_slides_240404.pdf?rlkey=rs26tn76nyuva7733y3mw3hzw&e=1&st=yk7862ib&dl=0).
 
 ## Upcoming events
 
