@@ -39,7 +39,7 @@ openwashdata’s goal is to empower WASH professionals to engage with tools and 
 
 openwashdata has recently launched their [first academy](https://ds4owd-001.github.io/website/) course on data science. Participants were guided through 10 weeks of lessons on the data science life-cycle, data organization, data transformation, data communication (Quarto), and other relevant topics. In Module 3 on [Data Transformation with dyplr](https://ds4owd-001.github.io/website/modules/md-03.html), participants were given a dataset created by WASHWeb’s Nicolas Dickinson allowing them to access all of the Joint Monitoring Programme’s (JMP) WASH data in a [single, usable dataset](https://github.com/washnote/jmpwashdata). Through this partnership we will continue to improve these tools for by improving documentation and metadata so that people less familiar with the data will be able to use it for further analysis.
 
-![WASHWeb's JMP dataset in openwashdata academy](/images/JMP Data usage v2.png){fig-align="center"}
+![WASHWeb's JMP dataset in openwashdata academy](/images/JMP%20Data%20usage%20v2.png){fig-align="center"}
 
 ## **WASHWeb is fostering a community to encourage better use, discoverability, and representativeness of WASH data.**
 

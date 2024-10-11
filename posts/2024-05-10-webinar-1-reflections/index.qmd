@@ -1,0 +1,88 @@
+---
+title: "Reflections on the WASH innovation showcase"
+description: "WASHWeb reflects on its first webinar with guest speakers from Akvo, Aquaya, IRCWASH Systems Academy, mWater, openwashdata, Segura Consulting, WASHAI, and WASHNote. What does a future-proof data ecosystem look like to them?"
+author: "Merel Laauwen"
+date: "2024-05-10"
+date-modified: today
+image: reflections.png
+draft: false
+title-block-banner-color: "#FFFFFF"
+---
+
+What does the future of our WASH data ecosystem look like? This the question WASHWeb sought to answer in its first ever webinar on April 4th, 2024. Invited speakers included [Lars Schöbitz](https://www.linkedin.com/in/larsschoebitz/) (openwashdata.org), [John Feighery](https://www.linkedin.com/in/johnfeighery/) ([mWater](https://www.mwater.co/)), [Jeske Verhoeven](https://www.linkedin.com/in/jeske-verhoeven-77741262/) ([IRCWASH](https://www.ircwash.org/)) & [Nicolas Dickinson](https://www.linkedin.com/in/nicolasdickinson/) ([WASHNote](https://washnote.com/)), Katy Sill ([USAID WSSH Data & Analytics](https://www.globalwaters.org/HowWeWork/Activities/water-security-sanitation-and-hygiene-data-analytics)) & [Emeline Bereziat](https://www.linkedin.com/in/emeline-bereziat-603a7628/) ([Akvo](https://akvo.org/)), [Duncan Penfold-Brown](https://www.linkedin.com/in/dpenfoldbrown/) ([Aquaya](https://aquaya.org/)) and [Olivier Mills](https://www.linkedin.com/in/oliviermills/) ([WASH AI](https://www.washai.org/)), facilitated by [Merel Laauwen](https://www.linkedin.com/in/merel-laauwen/) ([WASHWeb](https://washweb.org/)). The event was a great success, attracting over 300 registrants and 160 active participants.
+
+![](reflections.png){fig-align="center" width="418"}
+
+## Introducing WASHWeb
+
+WASHWeb stands as a universal initiative, drawing participation from across the globe, both high- and low-income countries. It is dedicated to fostering a global, cooperative network aimed at enhancing the usability, discoverability, and representivity of water, sanitation, and hygiene (WASH) data. As an international community, we facilitate activities at both a global and local level, with partner organizations acting locally. The effect of a better data ecosystem will ultimately be felt in households, medical institutions, and schools from improved critical water and sanitation services and their associated health impacts in each country.
+
+## What does a future-proof WASH data ecosystem look like?
+
+The webinar was concluded by asking each speaker to offer a 1 sentence answer to our guiding question: what does a future-proof WASH data ecosystem look like? Find out how each organization answered this question:
+
+-   WASHAI (Olivier Mills): From the perspective of AI, this is a difficult question to answer because the future is extremely unknown due to the fast pace of development. It will be critical to balance the potential risks (in terms of overuse) with the variety of opportunities for discoverability and ethical use.
+
+-   Aquaya (Duncan Penfold-Brown): Aspirationally, we need to be fast, flexible, monitor closely, and ultimately engaging talent and expertise.
+
+-   USAID WSSH Data & Analytics (Emeline Bereziat and Katy Sill): We need to be more specific about the data we're taking about and the stakeholders we are targeting: whether this is government, service providers, or programme monitoring. Once these definitions are improved, we can foster more effective communication. In addition, we should be active, iterative, and adaptive.
+
+-   IRCWASH (Nicolas Dickinson and Jeske Verhoeven): A future-proof ecosystem is one that is both more open and diverse in terms of different communities (also those outside WASH) coming together and learning from one another. We also emphasize the importance of inspiring people to use data for decision-making.
+
+-   mWater (John Feighery): We would like to see a move away from top-down approaches and repositiories of dead data, towards live data that's putting tools in the hands of communities.
+
+-   openwashdata (Lars Schöbitz): We hope for more investment into education for data literacy and data management at an early stage.
+
+## Key Innovations in the WASH Data Ecosystem
+
+The following sections provide a deeper insight into each of the six presentations and the innovations that are being developed in this space.
+
+### Innovating on open data practices
+
+The webinar kicked off with a deep dive into the transformative power of open data in enhancing the WASH data ecosystem. [Lars Schöbitz](https://www.linkedin.com/in/larsschoebitz/) from openwashdata.org explained that openwashdata, which sits within the department of [Global Health Engineering](https://ghe.ethz.ch/) at ETH Zurich, is a community effort to bring open data practices to the WASH sector through the openwashdata academy, publishing workflows, and infrastructure development. He underscored the pivotal role of open science workflows in ensuring that data not only serves academic purposes but also empowers local communities and decision-makers. His presentation set the tone for a series of enlightening talks focused on leveraging technology to push the boundaries of what's possible in WASH management and research.
+
+### Advancing management information systems with mWater
+
+Following Lars, [John Feighery](https://www.linkedin.com/in/johnfeighery/) from [mWater](https://www.mwater.co/) showcased their advanced management information system, which includes features like pipe system mapping. He explained how their platform is designed to support frontline workers, enabling more efficient data collection and usage at the community level. This approach to data application demonstrated the immediate benefits of accessible and actionable information, resonating well with the webinar’s theme of practice-oriented innovation.
+
+### Using AI as a learning companion
+
+The dialogue then shifted towards the use of AI for educational purposes with [Jeske Verhoeven](https://www.linkedin.com/in/jeske-verhoeven-77741262/) from [IRCWASH](https://www.ircwash.org/) and [Nicolas Dickinson](https://www.linkedin.com/in/nicolasdickinson/) from [WASHNote](https://washnote.com/). [IRCWASH](https://www.ircwash.org/) hosts a WASH Systems Academy with over 8,000 registered users. The development of an AI-powered learning companion can support learners and provide relevant external knowledge when necssary. They discussed the synergy between organizational knowledge and technological tools, illustrating how structured data helps in making informed decisions that lead to sustainable WASH services.
+
+### Improving evidence-based decision-making with USAID WSSH Data & Analytics
+
+Katy Sill, alongside [Emeline Bereziat](https://www.linkedin.com/in/emeline-bereziat-603a7628/), shared their plans for the [USAID WSSH Data & Analytics](https://www.globalwaters.org/HowWeWork/Activities/water-security-sanitation-and-hygiene-data-analytics). This new initiative aims to strengthen the WSSH data landscape, support data-informed decision-making, monitor WSSH acceleration resulting from USAID's systems strengthening, and provide tailored, evidence-informed decision support. They discussed how the integration of comprehensive data analytics tools is set to transform data into actionable insights, enabling policymakers and practitioners to implement more effective WASH interventions. This effort underscores a commitment to not just collect data, but to ensure it is used to enhance service delivery across diverse communities.
+
+### Project W: Aquaya’s Innovative Research on WASH Data Usability
+
+[Duncan Penfold-Brown](https://www.linkedin.com/in/dpenfoldbrown/) from [Aquaya](https://aquaya.org/) provided an in-depth look at their new initiative: [Project W](https://aquaya.org/project-w/). With many curious audience members, Duncan explained that Project W will be a directory, plaform, and service that will host all WASH data for governments, funders, and implementers - those who rely on WASH data on a regular basis.
+
+### Leveraging AI for Data Discovery in WASH
+
+[Olivier Mills](https://www.linkedin.com/in/oliviermills/), the founder of [WASH AI](https://www.washai.org/), explored how artificial intelligence can be used for data discovery. He discussed how AI can simplify complex data for everyday use, and that better data access will nurture more informed decision-making. By employing advanced algorithms, [WASH AI](https://www.washai.org/) is able to identify patterns and predict trends that would otherwise be undetectable, offering a transformative tool for organizations looking to optimize their operational efficiency and impact in the WASH sector.
+
+## Q&A Highlights
+
+One of the most engaging segments of the webinar was the panel discussion, where experts tackled pressing questions from the audience, ranging from data security concerns to the challenges of integrating traditional data collection methods with modern technological tools. The discourse revealed a consensus on the need for more collaborative efforts to address the disparities in data availability and the adoption of new technologies in different regions.
+
+## Webinar recording
+
+Did you miss the webinar? The recording is now available on [WASHWeb's YouTube channel](https://youtu.be/jDKfOT3vBPU?si=yuU_fz5x3GvVxo5d). 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jDKfOT3vBPU?si=vLa252b0lPDSyTDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
+## Slides
+
+Presentations are downloadable via [Dropbox](https://www.dropbox.com/scl/fi/iq8ze0ep444rbfzfgr21d/WASHWeb_webinar_all_slides_240404.pdf?rlkey=rs26tn76nyuva7733y3mw3hzw&e=1&st=yk7862ib&dl=0).
+
+## Upcoming events
+
+### Next webinar
+
+The next webinar will take place July 11th and will focus on 'Partnerships for WASH Data'. Would you like to use the WASHWeb platform to present your work or ideas? Please reach out via hello\@washweb.org.
+
+### Stockholm World Water Week
+
+WASHWeb will also be represented at [Stockholm World Water Week](https://www.worldwaterweek.org/) this year, where we will be hosting a session in collaboration with [openwashdata](https://openwashdata.org/) titled '[Unlocking the hidden potential of open WASH data](/events/2024_10_29_SWWW/)'. Where our first webinar focused on innovations in the WASH data space, this workshop will allow participants to engage with open data practices and using existing data better by brainstorming collaboratively about sector-specific challenges. Guest speakers include representatives from the [WHO](https://www.who.int/teams/environment-climate-change-and-health/water-sanitation-and-health/monitoring-and-evidence/wash-systems-monitoring/un-water-global-analysis-and-assessment-of-sanitation-and-drinking-water), [IRCWASH](https://www.ircwash.org/), [BASEflow](https://baseflowmw.org/), [DigDeep](https://www.digdeep.org/), [University of Kwazulu-Natal](https://ww3.ukzn.ac.za/), and the [Government of South Africa](https://www.cogta.gov.za/).

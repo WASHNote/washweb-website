@@ -1,0 +1,89 @@
+---
+title: "Stockholm World Water Week: Unlocking the hidden potential of open WASH data"
+description: |
+  WASHWeb and openwashdata will be hosting a highly interactive workshop session at World Water Week in Stockholm this year, titled "Unlocking the hidden potential of open WASH data". We welcome you to join us, either in-person or online. The speakers are highly cross-sectoral, spanning from public and private sector, local and international NGOs, and multilaterals.
+execute:
+    echo: false
+    warning: false
+editor_options: 
+  chunk_output_type: console
+  markdown: 
+    wrap: 72
+---
+
+## 🙋🏻‍♀️ Welcome!
+
+There is a hidden potential is WASH data that is unlocked when data is
+used and shared effectively.
+
+This event looks at the potential of open WASH data and how it can be
+used more appropriately. In particular, the event brings together
+partners across the public and private sector, local and international
+NGOs, and multilaterals to discuss how our community and partnership can
+have a greater impact through open WASH data.There is a hidden potential
+is WASH data that is unlocked when data is used and shared effectively.
+This event looks at the potential of open WASH data and how it can be
+used more appropriately. In particular, the event brings together
+partners across the public and private sector, local and international
+NGOs, and multilaterals to discuss how our community and partnership can
+have a greater impact through open WASH data.
+
+## Slides and Recording
+
+Did you miss the webinar? The recording is now available on [Stockholm
+World Water Week Channel](https://www.youtube.com/watch?v=Otich0Msfic).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Otich0Msfic?si=JAaPolltyNnsbsbf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
+All presentations are downloadable via
+[Dropbox](https://www.dropbox.com/scl/fi/tyzzfuraqahgdexfbw6z9/SWWW_-Unlocking-the-hidden-potential-of-open-WASH-data-slides.pdf?rlkey=5ciml4g2vqydhal0jlz3mq8et&dl=0).
+
+<iframe width="560" height="315" src="SWWW_%20Unlocking%20the%20hidden%20potential%20of%20open%20WASH%20data%20-%20slides.pdf" title="Slides" frameborder="0" allowfullscreen>
+
+</iframe>
+
+## 📆 Event Details
+
+-   **Date:** Thursday, August 29, 9:00 - 10:30 PM (CET)
+
+-   **Stockholm World Water Week Registration**:
+    <https://www.worldwaterweek.org/attending>
+
+-   🇺🇸 1:00 AM (MST - Boulder, USA)
+
+-   🇬🇧 8:00 PM (GMT - London, UK)
+
+-   🇳🇬 8:00 PM (WAT - Katsina, Nigeria)
+
+-   🇰🇪 10:00 PM (EAT - Nairobi, Kenya)
+
+-   🇮🇳 12:30 PM (IST - New Delhi, India)
+
+-   🇮🇩 14:00 PM (WIB - Jakarta, Indonesia)
+
+## Agenda
+
+```{r}
+
+agenda <- readr::read_csv(here::here("events/2024_08_29_SWWW/data/tbl-11-openwashdata-events.csv"))
+
+agenda  |> 
+    dplyr::select(-start_time, -end_time, -speaker_link, -affiliation_link) |>
+    dplyr::relocate(time) |> 
+    dplyr::mutate(speaker = dplyr::case_when(
+        stringr::str_detect(speaker, "NA") == TRUE ~ " - ",
+        TRUE ~ speaker
+    )) |> 
+    dplyr::mutate(affiliation = dplyr::case_when(
+        stringr::str_detect(affiliation, "NA") == TRUE ~ " - ",
+        TRUE ~ affiliation
+    )) |>
+    dplyr::rename_with(~stringr::str_to_title(.x), everything()) |> 
+    knitr::kable()
+```
+
+## Slides
+
+Will be shared following the event.

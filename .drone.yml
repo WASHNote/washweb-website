@@ -17,6 +17,11 @@ steps:
     image: cynkra/quarto-r:1.4.169-4.3.1
     commands:
       - 'echo "install.packages(\"rmarkdown\")" | r -'
+      - 'echo "install.packages(\"readr\")" | r -'
+      - 'echo "install.packages(\"here\")" | r -'
+      - 'echo "install.packages(\"dplyr\")" | r -'
+      - 'echo "install.packages(\"knitr\")" | r -'
+      - 'echo "install.packages(\"stringr\")" | r -'
       - quarto render
     volumes:
       - name: lib

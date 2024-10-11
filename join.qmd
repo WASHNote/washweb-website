@@ -1,37 +1,63 @@
 ---
-title: "Joining the Working Groups"
+title: "Joining the Discussion Groups"
 ---
 
-We facilitate the four working groups through Matrix "rooms". By means of free discussion, members can collaborate on one (or more!) of the working group topics.
+WASHWeb facilitates discussions through Matrix "rooms". By means of open participation and free discussion, members can collaborate on one (or multiple) of the working group topics.
 
-### Step 1: Install Matrix
+## Find WASHWeb on Matrix
 
-The easiest way to access Matrix is through Element.
+1.  First, [install and join Matrix].
+2.  Next, join the general WASHWeb space by [clicking here](https://matrix.to/#/#wash-web:autonomic.zone).
+3.  After joining the general WASHWeb space, you can choose to join specific working groups directly in Matrix or by clicking the links below:
+    1.  [Using Data Better](https://matrix.to/#/#washweb-using-data-better:matrix.org)
+    2.  [Social Justice](https://matrix.to/#/#washweb-social-justice:matrix.org)
+    3.  [Systems Thinking](https://matrix.to/#/#washweb-systems:matrix.org)
+    4.  [Accountability](https://matrix.to/#/#accountability-4ws:matrix.org)
 
--   Option A: [Download Element for desktop access](https://element.io/download).
+## Install and join Matrix
 
--   Option B: [Web access](https://app.element.io/).
+1.  Download and install Matrix. The easiest way to access Matrix is through Element.
 
-### Step 2: Create an account
+    -   Option A: [Download Element for desktop access](https://element.io/download). Select the appropriate operating system (Mac, Windows, or Linux).
 
-To register, you may use either your email, existing Github, Google, Gitlab, Facebook or Apple account.
+        ![](join/1_Download.png){width="436"}
 
-### Step 3: Join the WASHWeb lobby & working groups
+    -   Option B: [Web access](https://app.element.io/).
 
-Join any of the groups you are interested in by clicking the corresponding links below:
+        ![](join/1_Web.png){width="436"}
 
--   [General WASHWeb Lobby](https://matrix.to/#/#wash-web-lobby:autonomic.zone)
+2.  Open the Element App on your device
 
--   [Social Justice](https://matrix.to/#/#washweb-social-justice:matrix.org)
+3.  Click create an account
 
--   [Using Data Better](https://matrix.to/#/#washweb-using-data-better:matrix.org)
+    ![](join/2_Create.png){width="400"}
 
--   [Systems Thinking](https://matrix.to/#/#washweb-systems:matrix.org)
+4.  Register your account at matrix.org or use GitHub, Google, GitLab, Facebook or Apple to log in
 
--   [Accountability: 4Ws](https://matrix.to/#/#accountability-4ws:matrix.org)
+    ![](join/3_Account.png){width="356"}
 
-**New to Matrix?** [Here's a great guide to get you started](https://static.element.io/pdfs/element-user-guide.pdf).
+5.  Verify your account by opening the link sent in the email from matrix.org. In the browser where the link opens, you can automatically log in to an Element session. **Make sure to keep the session open.**
 
-## Stay updated!
+6.  Go back to the Element (Desktop) App
 
-[Linkedin](https://www.linkedin.com/company/washweb/)
+7.  Sign in to your new account
+
+8.  Click on verify with another device
+
+    ![](join/Verify.png){width="366"}
+
+9.  Go back to the browser with the open element session from *step 5*. Verify the session on your app.
+
+10. Go back to your Element (Desktop) App
+
+11. Open Security & Privacy settings by clicking on your logo in the top left
+
+12. Click on Set up a Secure Backup
+
+13. Generate a Security Key and store it somewhere safe, like a password manager. This will allow you to verify future sessions by using Security Keys
+
+14. You're in - now you can start exploring!
+
+## **Element User Guide**
+
+[Here's another great guide to get you started](https://static.element.io/pdfs/element-user-guide.pdf).

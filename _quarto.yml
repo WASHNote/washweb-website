@@ -17,6 +17,8 @@ website:
       - vision.qmd
       - href: contact.qmd
         text: Team
+      - href: events/index.qmd
+        text: Events
       - posts.qmd
       - contributor.qmd
     tools: 
@@ -32,6 +34,9 @@ format:
     theme:
       - custom.scss
     toc: true
+    include-in-header:
+      - text: |
+          <script defer data-domain="washweb.org" src="https://plausible.demo.coopcloud.tech/js/script.js"></script>
 
 editor: visual
 

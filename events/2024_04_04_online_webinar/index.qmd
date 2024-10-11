@@ -1,0 +1,69 @@
+---
+title: "WASHWeb Webinar: The Future of Our WASH Data Ecosystem"
+description: |
+  WASHWeb is hosting its first online event, with guest speakers from Akvo & USAID WSSH Data & Analytics, Aquaya, IRCWASH Systems Academy & WASHNote, mWater, openwashdata, and WASH AI. 
+execute:
+    echo: false
+    warning: false
+editor_options: 
+  chunk_output_type: console
+  markdown: 
+    wrap: 72
+---
+
+## 🙋🏻‍♀️ Welcome!
+
+WASHWeb is proud to announce that it is hosting its first ever webinar,
+with guest speakers from Akvo & USAID WSSH Data & Analytics, Aquaya,
+IRCWASH Systems Academy & WASHNote, mWater, openwashdata, and WASHAI.
+
+We will delve into different innovations working towards an improved
+WASH data ecosystem - from the use of AI and open data, to creating
+scalable management information systems.
+
+## Slides and recording
+
+Did you miss the webinar? The recording is now available on [WASHWeb's
+YouTube channel](https://youtu.be/jDKfOT3vBPU?si=yuU_fz5x3GvVxo5d). All
+presentations are downloadable via
+[Dropbox](https://www.dropbox.com/scl/fi/iq8ze0ep444rbfzfgr21d/WASHWeb_webinar_all_slides_240404.pdf?rlkey=rs26tn76nyuva7733y3mw3hzw&e=1&st=yk7862ib&dl=0).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jDKfOT3vBPU?si=vLa252b0lPDSyTDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
+## 📆 Event Details
+
+-   **Date:** Thursday, April 04, 3:00 - 4:30 PM (CET)
+
+-   **Zoom Registration**: Closed
+
+-   🇺🇸 7:00 AM (MST - Boulder, USA)
+
+-   🇬🇧 2:00 PM (GMT - London, UK)
+
+-   🇳🇬 3:00 PM (WAT - Katsina, Nigeria)
+
+-   🇰🇪 5:00 PM (EAT - Nairobi, Kenya)
+
+-   🇮🇳 7:30 PM (IST - New Delhi, India)
+
+-   🇮🇩 9:00 PM (WIB - Jakarta, Indonesia)
+
+## 📑 Agenda
+
+```{r}
+#| tbl-colwidths: [15, 35, 15, 45]
+#| column: page
+#| eval: true
+
+agenda <- readr::read_csv(here::here("events/2024_04_04_online_webinar/data/tbl-05-washweb-webinar-agenda.csv"))
+
+agenda |> 
+    dplyr::select(time, title, speaker, affiliation) |> 
+    dplyr::rename_with(~stringr::str_to_title(.x), everything()) |> 
+    knitr::kable()
+    
+```
+
+## 
