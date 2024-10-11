@@ -55,7 +55,7 @@ Katy Sill, alongside [Emeline Bereziat](https://www.linkedin.com/in/emeline-bere
 
 ### Project W: Aquaya’s Innovative Research on WASH Data Usability
 
-[Duncan Penfold-Brown](https://www.linkedin.com/in/dpenfoldbrown/) from [Aquaya](https://aquaya.org/) provided an in-depth look at their new initiative: [Project W](https://aquaya.org/project-w/). With many curious audience members, Duncan explained that Project W will be a directory, plaform, and service that will host all WASH data for governments, funders, and implementers - those who rely on WASH data on a regular basis.
+[Duncan Penfold-Brown](https://www.linkedin.com/in/dpenfoldbrown/) from [Aquaya](https://aquaya.org/) provided an in-depth look at their new initiative: [Project W](https://aquaya.org/project-w/). With many curious audience members, Duncan explained that Project W will be a directory, platform, and service that will host all WASH data for governments, funders, and implementers - those who rely on WASH data on a regular basis.
 
 ### Leveraging AI for Data Discovery in WASH
 
@@ -67,7 +67,7 @@ One of the most engaging segments of the webinar was the panel discussion, where
 
 ## Webinar recording
 
-Did you miss the webinar? The recording is now available on [WASHWeb's YouTube channel](https://youtu.be/jDKfOT3vBPU?si=yuU_fz5x3GvVxo5d). 
+Did you miss the webinar? The recording is now available on [WASHWeb's YouTube channel](https://youtu.be/jDKfOT3vBPU?si=yuU_fz5x3GvVxo5d).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jDKfOT3vBPU?si=vLa252b0lPDSyTDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 

@@ -1,0 +1,98 @@
+---
+title: "The Hidden Potential of Open WASH Data"
+description: "At WWW 2024, we explored how open WASH data can break down barriers and improve decision-making in the sector along with a group of excellent cross-sectoral WASH experts."
+author: "Merel Laauwen"
+date: "2024-10-11"
+date-modified: today
+image: Introduction.png
+draft: false
+title-block-banner-color: "#FFFFFF"
+---
+
+:::: grid
+::: g-col-12
+In the ever-evolving landscape of water, sanitation, and hygiene (WASH) management, data has become a pivotal resource. It holds the key to optimizing decision-making, informing policy, and ensuring that services reach the communities that need them the most. During World Water Week 2024, our session "[Unlocking the Hidden Potential of Open WASH Data](https://washweb.org/events/2024_08_29_SWWW/)" provided a platform for experts from across the globe to delve into the critical role that open data can play in overcoming sector-specific challenges. In addition, participants were able to bring in their own experiences through interactive brainstorm sessions in small groups about these key challenges. Co-hosted by [WASHWeb](https://www.linkedin.com/company/washweb/) and [openwashdata](https://openwashdata.org/), this session highlighted key issues around data ownership, accessibility, privacy, and trust, while brainstorming collective solutions to drive progress.
+
+The session was a great success, attracting 50 in-person participants and 70 online participants, despite our (slightly) challenging time slot at 9:00 on the last conference day.
+:::
+::::
+
+## Challenge #1: The Power of Open Data in Public Sector Decision-Making
+
+::::: grid
+::: g-col-7
+[Sandile Mbatha](https://www.linkedin.com/in/sandilembatha/), National Chief Data Officer from South Africa, spoke on the complexities of ownership and custodianship of data within the public sector. His message was clear: data only becomes a valuable resource when it is shared. The reluctance to share data, often tied to "data egos," creates silos that prevent effective decision-making and governance. Mbatha urged participants to rethink how data could be opened and standardized for public benefit, particularly in under-resourced governments. “Data ownership breeds data egos, which means people hoard their data and can't share it. Data is only a resource when it's shared,” he emphasized.
+:::
+
+::: g-col-5
+![](Sandile.png){width="1000"}
+:::
+:::::
+
+## Challenge #2: Ensuring WASH Data Accessibility in High-Income Settings
+
+::::: grid
+::: g-col-5
+![](Kim.png){width="1000"}
+:::
+
+::: g-col-7
+While WASH challenges are often framed as issues affecting low-income countries, [Kimberly Lemme](https://www.linkedin.com/in/kslemme/) from [DigDeep](https://www.digdeep.org/) reminded participants that high-income nations like the U.S. also face significant hurdles. Over 2 million Americans live without proper water access. Lemme discussed the fragmentation of WASH data across federal, state, and local levels, which leads to gaps in understanding the true scope of the problem. “We don’t actually really know the size of the crisis because the data is fragmented,” Lemme noted. A collaborative approach is required to bring this data together and to ensure it is accessible to underserved communities in these regions.
+:::
+:::::
+
+## Challenge #3: Balancing Client Privacy with Donor Expectations
+
+::::: grid
+::: g-col-7
+As the WASH sector shifts toward results-based financing, there is increasing pressure to verify services delivered to clients while balancing privacy. [Sasha Kramer](https://www.linkedin.com/in/sasha-kramer-23b4b3160/) of [SOIL](https://www.oursoil.org/), a container-based sanitation provider in Haiti, highlighted the tension between meeting donor data requirements and respecting client privacy. Kramer stressed the need for empathy in data collection, noting that asking intrusive questions of clients who pay for services blurs the line of what is ethically acceptable. “We run a revenue-generating nonprofit, which means people pay for these services—they are clients. This really blurs the line of what right we have to go and ask them about a service that they’ve paid for,” she remarked.
+:::
+
+::: g-col-5
+![](Sasha.png){width="1000"}
+:::
+:::::
+
+## Challenge #4: Building Trust for Investment Decisions
+
+::::: grid
+::: g-col-5
+![](Stef.png)
+:::
+
+::: g-col-7
+[Stef Smits](https://www.linkedin.com/in/stef-smits-b9a5a32a/) from [IRCWASH](https://www.ircwash.org/) addressed the critical issue of increasing trust in open data for investment decisions. Trust is often undermined when data is incomplete, inconsistent, or lacks transparency. Smits emphasized the importance of adopting standardized accounting methods, such as the WASH Accounts methodology developed by WHO, to harmonize financial data and allow for clearer, more reliable comparisons. This standardization can build investor confidence and streamline financial decision-making processes, a crucial step toward sustainable WASH investments.
+:::
+:::::
+
+## Challenge #5: Creating a Sector “Wiki” National Water Asset Inventory
+
+::::: grid
+::: g-col-7
+[Muthi Nhlema](https://www.linkedin.com/in/muthi-nhlema-829834156/), founder of [BASEflow](https://baseflowmw.org/) in Malawi, proposed an innovative solution for managing water assets through a sector-wide wiki approach. Malawi’s comprehensive water asset database is a treasure trove of data, but keeping it up to date has proven challenging. Nhlema suggested a community-driven approach, similar to how Wikipedia functions, where various NGOs and local actors contribute to keeping the database current. Barriers such as data monetization and a lack of resources remain significant hurdles. As Nhlema pointed out, “Data is viewed as a financial good first, above all else, so they want to monetize it.”
+:::
+
+::: g-col-5
+![](Muthi.png)
+:::
+:::::
+
+## Challenge #6: Overcoming Capacity Constraints in Data Practices
+
+::::: grid
+::: g-col-5
+![](Sue.png)
+:::
+
+::: g-col-7
+The session also explored the challenge of managing legacy data within academic and research environments. [Susan Mercer](https://www.linkedin.com/in/susan-mercer-0883813a/) of the [University of KwaZulu-Natal](https://www.ukzn.ac.za/) explained how decades of WASH research have generated large datasets that are difficult to access, use, and share due to a lack of resources and data management expertise. “Our research center has been operating for 50 years. We have data from 50 years back, and it’s in different formats. Some of it is just sitting in documents, and often there are no electronic records,” she said. Building capacity for data management and archiving within academic institutions is essential to unlocking the potential of this wealth of information.
+:::
+:::::
+
+## The Path Forward
+
+Each of these expert contributions underscores a common theme: collaboration and innovation are crucial to unlocking the potential of open WASH data. By addressing issues around trust, privacy, accessibility, and capacity, we can build data ecosystems that not only drive investment but also improve service delivery for underserved communities worldwide.
+
+For access to the full session recording, use [this link](/events/2024_08_29_SWWW/). 
+
+Follow \@[WASHWeb](https://www.linkedin.com/company/washweb/) for updates and future events.
