@@ -2,7 +2,6 @@
 title: "WASHWeb Webinar: Partnerships for WASH Data"
 description: |
   Partnerships are critical to strengthen our WASH data ecosystem. Join our next webinar on July 11 to to connect, participate, and learn from leaders in collaboration and partnerships!
-
 execute:
     echo: false
     warning: false
@@ -30,14 +29,21 @@ Additionally, speakers will offer insights related to open data and data
 sharing within specific communities from different countries around the
 world.
 
-## Slides and recording
+## 📹 Recording
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WaBXQ4YfGJM?si=dqvXMTaJMvkg-XbU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 
 </iframe>
 
-Slides can be accessed and downloaded via this [Dropbox
-link](https://www.dropbox.com/scl/fi/9sph4p033yj09yqkflbzd/Partnerships_Webinar_Slides.pdf?rlkey=hvuq736n8la3uvwpxd5g84uki&st=ouv60dkd&dl=0).
+## 💻 Slides
+
+Slides can be accessed and downloaded via
+[Dropbox](https://www.dropbox.com/scl/fi/9sph4p033yj09yqkflbzd/Partnerships_Webinar_Slides.pdf?rlkey=hvuq736n8la3uvwpxd5g84uki&st=ouv60dkd&dl=0)
+or the embedded document below.
+
+<iframe width="560" height="315" src="Partnerships_Webinar_Slides.pdf" title="Slides" frameborder="0" allowfullscreen>
+
+</iframe>
 
 ## 📝 Agenda
 

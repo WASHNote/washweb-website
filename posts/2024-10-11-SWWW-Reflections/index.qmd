@@ -9,6 +9,8 @@ draft: false
 title-block-banner-color: "#FFFFFF"
 ---
 
+![](Introduction.png)
+
 :::: grid
 ::: g-col-12
 In the ever-evolving landscape of water, sanitation, and hygiene (WASH) management, data has become a pivotal resource. It holds the key to optimizing decision-making, informing policy, and ensuring that services reach the communities that need them the most. During World Water Week 2024, our session "[Unlocking the Hidden Potential of Open WASH Data](https://washweb.org/events/2024_08_29_SWWW/)" provided a platform for experts from across the globe to delve into the critical role that open data can play in overcoming sector-specific challenges. In addition, participants were able to bring in their own experiences through interactive brainstorm sessions in small groups about these key challenges. Co-hosted by [WASHWeb](https://www.linkedin.com/company/washweb/) and [openwashdata](https://openwashdata.org/), this session highlighted key issues around data ownership, accessibility, privacy, and trust, while brainstorming collective solutions to drive progress.
