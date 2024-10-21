@@ -12,14 +12,14 @@ website:
     title: false
     css: logo.css
     right:
-      - href: join.qmd
-        text: Join
       - vision.qmd
-      - href: contact.qmd
-        text: Team
       - href: events/index.qmd
         text: Events
       - posts.qmd
+      - href: contact.qmd
+        text: Team
+      - href: join.qmd
+        text: Join
       - contributor.qmd
     tools: 
       - icon: linkedin

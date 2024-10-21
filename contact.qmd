@@ -2,23 +2,33 @@
 title: "Team"
 ---
 
-## Core facilitating team
+::::: grid
+::: g-col-4
+![](images/Nick.png)
+:::
 
-![](/images/Nick.png){fig-alt="Nicolas Dickinson" fig-align="center" width="251"}
-
+::: g-col-8
 ### Nicolas Dickinson - WASHWeb Lead
 
 Founder of [WASHNote](https://washnote.com). With over 15 years of experience in the WASH sector, Nick is highly specialized in the development of international and regional monitoring of WASH commitments and their enabling environments, providing country-led monitoring and evaluation of services, and facilitating trainings to a range of different organizations. Above all, he firmly believes in the need for making better use of data and digital systems to advance towards reaching SDG 6: clean water and sanitation for all by 2030.
 
 [Email](mailto:dickinson@washnote.com){target="_blank"} \| [LinkedIn](https://www.linkedin.com/in/nicolasdickinson/)
+:::
+:::::
 
-![](/images/Merel.png){fig-alt="Merel Laauwen" fig-align="center" width="251"}
+::::: grid
+::: g-col-4
+![](images/Merel.png)
+:::
 
+::: g-col-8
 ### Merel Laauwen - WASHWeb Coordinator
 
 Merel works as an [independent consultant](https://www.lwn.earth/) in the WASH sector. Her work spans a variety of topics, from WASH systems strengthening to disaster preparedness in humanitarian settings. She studied an MSc in Water Science, Policy and Management at the University of Oxford, where her dissertation research focused on the use of systems thinking in the implementation of rural water treatment.
 
 [Email](mailto:merel@lwn.earth){target="_blank"} \| [LinkedIn](https://www.linkedin.com/in/merel-laauwen/)
+:::
+:::::
 
 ## Contribute
 

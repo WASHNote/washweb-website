@@ -28,7 +28,7 @@ partners across the public and private sector, local and international
 NGOs, and multilaterals to discuss how our community and partnership can
 have a greater impact through open WASH data.
 
-## Slides and Recording
+## 📹 Recording
 
 Did you miss the webinar? The recording is now available on [Stockholm
 World Water Week Channel](https://www.youtube.com/watch?v=Otich0Msfic).
@@ -37,8 +37,11 @@ World Water Week Channel](https://www.youtube.com/watch?v=Otich0Msfic).
 
 </iframe>
 
+## 💻 Slides
+
 All presentations are downloadable via
-[Dropbox](https://www.dropbox.com/scl/fi/tyzzfuraqahgdexfbw6z9/SWWW_-Unlocking-the-hidden-potential-of-open-WASH-data-slides.pdf?rlkey=5ciml4g2vqydhal0jlz3mq8et&dl=0).
+[Dropbox](https://www.dropbox.com/scl/fi/tyzzfuraqahgdexfbw6z9/SWWW_-Unlocking-the-hidden-potential-of-open-WASH-data-slides.pdf?rlkey=5ciml4g2vqydhal0jlz3mq8et&dl=0)
+or via the embedded document below.
 
 <iframe width="560" height="315" src="SWWW_%20Unlocking%20the%20hidden%20potential%20of%20open%20WASH%20data%20-%20slides.pdf" title="Slides" frameborder="0" allowfullscreen>
 
@@ -63,7 +66,7 @@ All presentations are downloadable via
 
 -   🇮🇩 14:00 PM (WIB - Jakarta, Indonesia)
 
-## Agenda
+## 📝 Agenda
 
 ```{r}
 
@@ -83,7 +86,3 @@ agenda  |>
     dplyr::rename_with(~stringr::str_to_title(.x), everything()) |> 
     knitr::kable()
 ```
-
-## Slides
-
-Will be shared following the event.
