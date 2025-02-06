@@ -37,9 +37,7 @@ world.
 
 ## 💻 Slides
 
-Slides can be accessed and downloaded via
-[Dropbox](https://www.dropbox.com/scl/fi/9sph4p033yj09yqkflbzd/Partnerships_Webinar_Slides.pdf?rlkey=hvuq736n8la3uvwpxd5g84uki&st=ouv60dkd&dl=0)
-or the embedded document below.
+Slides can be accessed and [downloaded](Partnerships_Webinar_Slides.pdf) or viewed in the embedded document below.
 
 <iframe width="560" height="315" src="Partnerships_Webinar_Slides.pdf" title="Slides" frameborder="0" allowfullscreen>
 

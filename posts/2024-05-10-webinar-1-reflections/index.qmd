@@ -73,9 +73,13 @@ Did you miss the webinar? The recording is now available on [WASHWeb's YouTube c
 
 </iframe>
 
-## Slides
+## 💻 Slides
 
-Presentations are downloadable via [Dropbox](https://www.dropbox.com/scl/fi/iq8ze0ep444rbfzfgr21d/WASHWeb_webinar_all_slides_240404.pdf?rlkey=rs26tn76nyuva7733y3mw3hzw&e=1&st=yk7862ib&dl=0).
+Presentations can be [downloaded](WASHWeb_webinar_all_slides_240404.pdf) or viewed in the embedded document below.
+
+<iframe width="560" height="315" src="WASHWeb_webinar_all_slides_240404.pdf" title="Slides" frameborder="0" allowfullscreen>
+
+</iframe>
 
 ## Upcoming events
 

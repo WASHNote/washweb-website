@@ -39,9 +39,7 @@ World Water Week Channel](https://www.youtube.com/watch?v=Otich0Msfic).
 
 ## 💻 Slides
 
-All presentations are downloadable via
-[Dropbox](https://www.dropbox.com/scl/fi/tyzzfuraqahgdexfbw6z9/SWWW_-Unlocking-the-hidden-potential-of-open-WASH-data-slides.pdf?rlkey=5ciml4g2vqydhal0jlz3mq8et&dl=0)
-or via the embedded document below.
+All presentations can be [downloaded](SWWW_%20Unlocking%20the%20hidden%20potential%20of%20open%20WASH%20data%20-%20slides.pdf) or viewed in the embedded document below.
 
 <iframe width="560" height="315" src="SWWW_%20Unlocking%20the%20hidden%20potential%20of%20open%20WASH%20data%20-%20slides.pdf" title="Slides" frameborder="0" allowfullscreen>
 
