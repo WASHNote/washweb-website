@@ -1,0 +1,66 @@
+---
+title: "A dialogue on reinventing water and sanitation data"
+description: |
+  With increasing innovation in AI, changing financial funding flows, political and trade instability, WASHWeb and openwashdata will be hosting an open dialogue.
+execute:
+    echo: false
+    warning: false
+image: ReinventingWASHdialoguePromo.jpg
+editor_options: 
+  chunk_output_type: console
+  markdown: 
+    wrap: none
+---
+
+## 🙋🏻‍♀️ Welcome!
+
+In the current context of increasing innovation in AI, changing financial funding flows, political and trade instability, there are many questions and articles about these challenges. But what are the actual challenges you are facing on the ground? What WASH data infrastructure needs to be in place?
+
+What innovations and adaptations are you taking to ensure continuing water and sanitation services and to ensure you have the information you need? What collective action is needed to help achieve your goals and how can others contribute?
+
+Join [WASHWeb](https://www.linkedin.com/company/washweb/) and [openwashdata.org](http://openwashdata.org/) in our upcoming dialogue. We will discuss what the past of WASH data has been, and what the future will look like.
+
+All are welcome to this session, including non-WASH people, technologists, and those who are simply curious. The preparation of this webinar has been partially supported by Open WASH Data of the [Global Health Engineering](https://www.linkedin.com/company/global-health-engineering/) in Zurich. Please join us to learn more about the latest in open WASH data and the work with WASHWeb in WASHCollab.
+
+The preparation of this webinar has been partially supported by Open WASH Data of the Global Health Engineering in Zurich. We will also briefly give an update on the latest in open WASH data and the work with WASHWeb in WASHCollab.
+
+## 📆 Event Details
+
+💻 **Registration**: <https://us06web.zoom.us/meeting/register/jX84pntfQgmH8oQPH-SjpA>
+
+**Date:** Monday, March 31st at 15:00-16:00 (CET)
+
+-   ️🇺🇸 7:00 AM (MDT - Edmonton, Alberta / Boulder, USA)
+
+-   🇬🇧 14:00 (GMT - London, UK)
+
+-   🇳🇬 14:00 (WAT - Abuja, Nigeria)
+
+-   15:00-16:00 (CET - Geneva, Switzerland)
+
+-   🇰🇪 16:00 (EAT - Nairobi, Kenya)
+
+-   🇮🇳 18:30 (IST - New Delhi, India)
+
+-   🇮🇩 20:00 (WIB - Jakarta, Indonesia)
+
+## 📝 Agenda
+
+```{r}
+
+agenda <- readr::read_csv(here::here("events/2025_03_31_future_wash_data/data/future-wash-data-agenda.csv"))
+
+agenda  |> 
+    dplyr::select(-start_time, -end_time, -speaker_link, -affiliation_link) |>
+    dplyr::relocate(time) |> 
+    dplyr::mutate(speaker = dplyr::case_when(
+        stringr::str_detect(speaker, "NA") == TRUE ~ " - ",
+        TRUE ~ speaker
+    )) |> 
+    dplyr::mutate(affiliation = dplyr::case_when(
+        stringr::str_detect(affiliation, "NA") == TRUE ~ " - ",
+        TRUE ~ affiliation
+    )) |>
+    dplyr::rename_with(~stringr::str_to_title(.x), everything()) |> 
+    knitr::kable()
+```
