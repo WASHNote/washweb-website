@@ -8,26 +8,18 @@ execute:
 editor_options: 
   chunk_output_type: console
   markdown: 
-    wrap: 72
+    wrap: none
 ---
 
 ## 🙋🏻‍♀️ Welcome!
 
-How are partnerships driving efforts towards a more effective WASH data
-ecosystem?
+How are partnerships driving efforts towards a more effective WASH data ecosystem?
 
-Listen and engage with a variety of WASH and data leaders from different
-context and cases who have set up partnerships to improve WASH data
-sharing. This webinar will share experiences from partnerships in
-countries to partnerships in international cooperation and communities
-of practice.
+Listen and engage with a variety of WASH and data leaders from different context and cases who have set up partnerships to improve WASH data sharing. This webinar will share experiences from partnerships in countries to partnerships in international cooperation and communities of practice.
 
-What can we learn from these leaders? How can we replicate these
-practices?
+What can we learn from these leaders? How can we replicate these practices?
 
-Additionally, speakers will offer insights related to open data and data
-sharing within specific communities from different countries around the
-world.
+Additionally, speakers will offer insights related to open data and data sharing within specific communities from different countries around the world.
 
 ## 📹 Recording
 
@@ -47,11 +39,9 @@ Slides can be accessed and [downloaded](Partnerships_Webinar_Slides.pdf) or view
 
 -   Yunia Musaazi from Uganda Water and Sanitation Network (UWASNET)
 
--   Dr. Sandile Mbatha (Ph.D.) from the South African departments for
-    Cooperative Governance and Traditional Affairs
+-   Dr. Sandile Mbatha (Ph.D.) from the South African departments for Cooperative Governance and Traditional Affairs
 
--   Fiona Gore from World Health Organization on core indicators for
-    water, sanitation and hygiene systems strengthening
+-   Fiona Gore from World Health Organization on core indicators for water, sanitation and hygiene systems strengthening
 
 -   Mutala Abdul-Mumin for RWSN - Rural Water Supply Network Data4Action
 

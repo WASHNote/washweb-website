@@ -8,23 +8,18 @@ execute:
 editor_options: 
   chunk_output_type: console
   markdown: 
-    wrap: 72
+    wrap: none
 ---
 
 ## 🙋🏻‍♀️ Welcome!
 
-WASHWeb is proud to announce that it is hosting its first ever webinar,
-with guest speakers from Akvo & USAID WSSH Data & Analytics, Aquaya,
-IRCWASH Systems Academy & WASHNote, mWater, openwashdata, and WASHAI.
+WASHWeb is proud to announce that it is hosting its first ever webinar, with guest speakers from Akvo & USAID WSSH Data & Analytics, Aquaya, IRCWASH Systems Academy & WASHNote, mWater, openwashdata, and WASHAI.
 
-We will delve into different innovations working towards an improved
-WASH data ecosystem - from the use of AI and open data, to creating
-scalable management information systems.
+We will delve into different innovations working towards an improved WASH data ecosystem - from the use of AI and open data, to creating scalable management information systems.
 
 ## 📹 Recording
 
-Did you miss the webinar? The recording is now available on [WASHWeb's
-YouTube channel](https://youtu.be/jDKfOT3vBPU?si=yuU_fz5x3GvVxo5d).
+Did you miss the webinar? The recording is now available on [WASHWeb's YouTube channel](https://youtu.be/jDKfOT3vBPU?si=yuU_fz5x3GvVxo5d).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jDKfOT3vBPU?si=vLa252b0lPDSyTDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 

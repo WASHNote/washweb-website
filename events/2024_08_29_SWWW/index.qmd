@@ -8,30 +8,18 @@ execute:
 editor_options: 
   chunk_output_type: console
   markdown: 
-    wrap: 72
+    wrap: none
 ---
 
 ## 🙋🏻‍♀️ Welcome!
 
-There is a hidden potential is WASH data that is unlocked when data is
-used and shared effectively.
+There is a hidden potential is WASH data that is unlocked when data is used and shared effectively.
 
-This event looks at the potential of open WASH data and how it can be
-used more appropriately. In particular, the event brings together
-partners across the public and private sector, local and international
-NGOs, and multilaterals to discuss how our community and partnership can
-have a greater impact through open WASH data.There is a hidden potential
-is WASH data that is unlocked when data is used and shared effectively.
-This event looks at the potential of open WASH data and how it can be
-used more appropriately. In particular, the event brings together
-partners across the public and private sector, local and international
-NGOs, and multilaterals to discuss how our community and partnership can
-have a greater impact through open WASH data.
+This event looks at the potential of open WASH data and how it can be used more appropriately. In particular, the event brings together partners across the public and private sector, local and international NGOs, and multilaterals to discuss how our community and partnership can have a greater impact through open WASH data.There is a hidden potential is WASH data that is unlocked when data is used and shared effectively. This event looks at the potential of open WASH data and how it can be used more appropriately. In particular, the event brings together partners across the public and private sector, local and international NGOs, and multilaterals to discuss how our community and partnership can have a greater impact through open WASH data.
 
 ## 📹 Recording
 
-Did you miss the webinar? The recording is now available on [Stockholm
-World Water Week Channel](https://www.youtube.com/watch?v=Otich0Msfic).
+Did you miss the webinar? The recording is now available on [Stockholm World Water Week Channel](https://www.youtube.com/watch?v=Otich0Msfic).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Otich0Msfic?si=JAaPolltyNnsbsbf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 
@@ -49,8 +37,7 @@ All presentations can be [downloaded](SWWW_%20Unlocking%20the%20hidden%20potenti
 
 -   **Date:** Thursday, August 29, 9:00 - 10:30 PM (CET)
 
--   **Stockholm World Water Week Registration**:
-    <https://www.worldwaterweek.org/attending>
+-   **Stockholm World Water Week Registration**: <https://www.worldwaterweek.org/attending>
 
 -   🇺🇸 1:00 AM (MST - Boulder, USA)
 
